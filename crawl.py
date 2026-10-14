@@ -48,7 +48,7 @@ TYPES = [
     ("annonces", re.compile(r"^/annonces/.+")),
     ("immobilier", re.compile(r"^/immobilier-offres/.+")),
     ("articles", re.compile(r"^/(blog|articles|produits|coupons|photo-albums|videos|photos)/.+")),
-    ("entreprises", re.compile(r"^/[^/]+/[^/]+/[^/]+$")),  # commune/catégorie/entreprise
+    ("entreprises", re.compile(r"^/[^/]+/[^/]+/[^/]+(/[^/]+)?$")),  # (pays/)commune/catégorie/entreprise
     ("pages", re.compile(r".*")),
 ]
 
@@ -96,7 +96,7 @@ def norm(href, current, keep_page=False):
     if path != "/" and path.endswith("/"):
         path = path[:-1]
     path = re.sub(r"%[0-9A-F]{2}", lambda m: m.group(0).lower(), path)
-    if SKIP.search(path) or path.endswith("/connect") or COMBO_ROOT.match(path):
+    if SKIP.search(path) or re.search(r"/(connect|writeareview|write-a-review)$", path) or COMBO_ROOT.match(path):
         return None
     page = re.fullmatch(r"page=(\d+)", u.query or "")
     query = f"page={page.group(1)}" if keep_page and page and 1 < int(page.group(1)) <= MAX_PAGINATION else ""
@@ -120,7 +120,7 @@ def worth_visiting(path):
         return True
     if seg[0] in SECTION_ROOTS:
         return len(seg) == 2
-    return len(seg) == 3  # commune/catégorie/entreprise (business profile)
+    return len(seg) in (3, 4)  # business profile: commune/catégorie/entreprise, sometimes pays/commune/catégorie/entreprise
 
 
 def page_info(body):
