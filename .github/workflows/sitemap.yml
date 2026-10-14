@@ -42,4 +42,5 @@ jobs:
           sha=$(git rev-parse HEAD)
           out=$(curl -sS --max-time 120 -A "PolynesiaConnectSitemap/1.0" "https://www.polynesiaconnect.com/pc-sitemap-sync?token=${SYNC_TOKEN}&sha=${sha}")
           echo "$out" | grep -o "PC sitemap sync: [^<]*" || { echo "sync widget did not answer"; exit 1; }
-          echo "$out" | grep -q "files written" || exit 1
+          # success only if every file was written (e.g. "7/7 files written")
+          echo "$out" | grep -qE "sync: ([1-9][0-9]*)/\1 files written" || exit 1
