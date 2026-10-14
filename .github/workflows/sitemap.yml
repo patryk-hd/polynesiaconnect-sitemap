@@ -1,0 +1,36 @@
+name: Sitemap
+
+on:
+  schedule:
+    # Monday and Thursday 08:00 Tahiti (18:00 UTC), after the agenda and jobs routines
+    - cron: "0 18 * * 1,4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sitemap
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Crawl www.polynesiaconnect.com
+        run: python3 crawl.py "${SITEMAP_BASE}"
+        env:
+          SITEMAP_BASE: ${{ vars.SITEMAP_BASE || 'https://patryk-hd.github.io/polynesiaconnect-sitemap' }}
+      - name: Publish
+        run: |
+          git config user.name "polynesiaconnect-sitemap[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state.json changes.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -q -m "Sitemap $(date -u +%Y-%m-%d)"
+          git push -q
