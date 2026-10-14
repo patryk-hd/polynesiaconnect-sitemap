@@ -34,3 +34,12 @@ jobs:
           if git diff --cached --quiet; then echo "no change"; exit 0; fi
           git commit -q -m "Sitemap $(date -u +%Y-%m-%d)"
           git push -q
+      - name: Copy to www.polynesiaconnect.com/sitemap.xml
+        # the site's "PC Sitemap Sync" widget downloads this commit's files into filedata/cache/sitemaps/
+        env:
+          SYNC_TOKEN: ${{ secrets.SITEMAP_SYNC_TOKEN }}
+        run: |
+          sha=$(git rev-parse HEAD)
+          out=$(curl -sS --max-time 120 -A "PolynesiaConnectSitemap/1.0" "https://www.polynesiaconnect.com/pc-sitemap-sync?token=${SYNC_TOKEN}&sha=${sha}")
+          echo "$out" | grep -o "PC sitemap sync: [^<]*" || { echo "sync widget did not answer"; exit 1; }
+          echo "$out" | grep -q "files written" || exit 1
