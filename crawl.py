@@ -36,7 +36,7 @@ TODAY = dt.date.today().isoformat()
 # never crawled: accounts, forms, technical pages, search parameters
 SKIP = re.compile(r"^/(api|admin|account|login|logout|checkout|join|joindre|rejoindre|signup|register|connect|"
                   r"write-a-review|devpreview|search_results|search|cart|invoice|password|unsubscribe|"
-                  r"filedata|uploads|images|css|js|cdn-cgi|404|pc-sitemap-sync)(/|$)|\.(jpe?g|png|gif|webp|svg|pdf|zip|xml|txt|js|css|ico)$",
+                  r"filedata|uploads|images|css|js|cdn-cgi|404|pc-sitemap-sync|indexnow-key)(/|$)|\.(jpe?g|png|gif|webp|svg|pdf|zip|xml|txt|js|css|ico)$",
                   re.I)
 SECTIONS = ["/", "/annonces", "/immobilier-offres", "/evenements-en-cours", "/emploi", "/produits", "/coupons",
             "/blog", "/articles", "/photo-albums", "/videos", "/listing"]
@@ -62,7 +62,7 @@ COMBO_ROOT = re.compile(r"^/(french-polynesia|france|(%c3%ae|i|î)les-[^/]*)(/|$
 MAX_PAGINATION = 60
 # technical / account pages that answer 200 but must not be indexed
 NOT_LISTED = re.compile(r"^/(favoris|favoriteswidget\.php|mon-compte|sitemap-generator|discussion|reviews|audio|"
-                        r"specialities|account|members?|pays-de-la-loire|pc-sitemap-sync)(/|$)", re.I)
+                        r"specialities|account|members?|pays-de-la-loire|pc-sitemap-sync|indexnow-key)(/|$)", re.I)
 EMPTY = re.compile(r"aucun r(é|&eacute;)sultat|no results found", re.I)
 
 

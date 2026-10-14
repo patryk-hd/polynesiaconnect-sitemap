@@ -46,3 +46,30 @@ jobs:
           re='sync: ([0-9]+)/([0-9]+) files written'
           if [[ "$out" =~ $re ]] && [ "${BASH_REMATCH[1]}" = "${BASH_REMATCH[2]}" ] && [ "${BASH_REMATCH[1]}" -gt 0 ]; then exit 0; fi
           exit 1
+      - name: Notify Bing (IndexNow)
+        # new and changed pages of this run; the key is served by the site at /indexnow-key
+        if: ${{ vars.INDEXNOW_KEY != '' }}
+        env:
+          KEY: ${{ vars.INDEXNOW_KEY }}
+        run: |
+          live=$(curl -sS --max-time 60 -A "PolynesiaConnectSitemap/1.0" https://www.polynesiaconnect.com/indexnow-key | tr -d '[:space:]')
+          if [ "$live" != "$KEY" ]; then echo "key page not answering the key yet — skipped"; exit 0; fi
+          python3 - <<'PY'
+          import json, os, urllib.request
+          ch = json.load(open("changes.json"))
+          paths = ch["added"] + ch["changed"]
+          if os.path.exists("indexnow-all.flag"):
+              paths = list(json.load(open("state.json")))
+          urls = ["https://www.polynesiaconnect.com" + p for p in paths][:10000]
+          if not urls:
+              print("nothing new to notify"); raise SystemExit
+          body = json.dumps({"host": "www.polynesiaconnect.com", "key": os.environ["KEY"],
+                             "keyLocation": "https://www.polynesiaconnect.com/indexnow-key", "urlList": urls}).encode()
+          req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body,
+                                       headers={"Content-Type": "application/json; charset=utf-8"})
+          with urllib.request.urlopen(req, timeout=60) as r:
+              print("IndexNow:", r.status, len(urls), "URLs")
+          PY
+          if [ -f indexnow-all.flag ]; then
+            git rm -q indexnow-all.flag && git commit -q -m "IndexNow: first full submission done" && git push -q
+          fi
