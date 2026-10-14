@@ -1,0 +1,3202 @@
+{
+"/": {
+"fp": "2ded0b99fb384b20",
+"lastmod": "2026-10-14"
+},
+"/about/contact": {
+"fp": "11eebb5d6a309e31",
+"lastmod": "2026-10-14"
+},
+"/about/privacy": {
+"fp": "d97b1c119268afd6",
+"lastmod": "2026-10-14"
+},
+"/about/terms": {
+"fp": "c13d80d9143ad279",
+"lastmod": "2026-10-14"
+},
+"/activites-loisirs": {
+"fp": "7b75de945a06edd6",
+"lastmod": "2026-10-14"
+},
+"/activites-nautiques": {
+"fp": "01501f9af3c3d0db",
+"lastmod": "2026-10-14"
+},
+"/activites-terrestres": {
+"fp": "61a4f3dd3e6eed3e",
+"lastmod": "2026-10-14"
+},
+"/agences-de-communication": {
+"fp": "dce0f4853714121b",
+"lastmod": "2026-10-14"
+},
+"/ameublement-decoration": {
+"fp": "14ac5bef7f6060f4",
+"lastmod": "2026-10-14"
+},
+"/annonces": {
+"fp": "5215c75b273035a4",
+"lastmod": "2026-10-14"
+},
+"/annonces/%f0%9f%9a%97-poussette-si%c3%a8ge-auto-doona-%c3%a0-vendre-%f0%9f%91%b6": {
+"fp": "603e1338682e6e00",
+"lastmod": "2026-10-14"
+},
+"/annonces/a-vendre-trimaran-diam-24-od": {
+"fp": "529c4e4d3256ec70",
+"lastmod": "2026-10-14"
+},
+"/annonces/affaire-interessante": {
+"fp": "0b171f6450951718",
+"lastmod": "2026-10-14"
+},
+"/annonces/bavaria-47-gte-1994-moorea-pr%c3%aat-%c3%a0-vivre-%c3%a0-bord-liveaboard": {
+"fp": "6f6d644f128e7e60",
+"lastmod": "2026-10-14"
+},
+"/annonces/canape-chesterfield-cuir-marron-rare": {
+"fp": "0fa32ae8ace83a41",
+"lastmod": "2026-10-14"
+},
+"/annonces/coaching": {
+"fp": "c17cfdc86940e978",
+"lastmod": "2026-10-14"
+},
+"/annonces/dacia-sandero": {
+"fp": "5466ebc34075e814",
+"lastmod": "2026-10-14"
+},
+"/annonces/disque-dur-wd-gold-4to-neuf-dans-lemballage": {
+"fp": "5c21df71afc297f3",
+"lastmod": "2026-10-14"
+},
+"/annonces/jack": {
+"fp": "9db7cbb0a090117e",
+"lastmod": "2026-10-14"
+},
+"/annonces/location-f2-punaauia": {
+"fp": "cca0ce47abdb10e3",
+"lastmod": "2026-10-14"
+},
+"/annonces/playstation-5-30th-anniversary": {
+"fp": "9e31e81b0a91798c",
+"lastmod": "2026-10-14"
+},
+"/annonces/si%c3%a8ge-de-b%c3%a9b%c3%a9": {
+"fp": "c0006a5c7df74a23",
+"lastmod": "2026-10-14"
+},
+"/annonces/stick-mobility-class": {
+"fp": "6888898d94d04a66",
+"lastmod": "2026-10-14"
+},
+"/annonces/studio-meubl%c3%a9-climatis%c3%a9-42-m2": {
+"fp": "7692f8744ffae694",
+"lastmod": "2026-10-14"
+},
+"/annonces/vends-19-lianes-v%c3%a9g%c3%a9tales-lumineuses-%e2%9c%a8": {
+"fp": "8efde943064c2b0e",
+"lastmod": "2026-10-14"
+},
+"/apataki/transport-vehicules/apataki-carenage-services": {
+"fp": "2a92697f611ba563",
+"lastmod": "2026-10-14"
+},
+"/architectes-bureaux-d-etudes": {
+"fp": "e966ca693c7a3839",
+"lastmod": "2026-10-14"
+},
+"/artisanat-souvenirs": {
+"fp": "eade995c30c7fa1b",
+"lastmod": "2026-10-14"
+},
+"/arue/beaute-bien-etre/tavai-spa-le-tahiti-by-pearl-resorts": {
+"fp": "c8c0ab216de9d23d",
+"lastmod": "2026-10-14"
+},
+"/arue/education-formation/lil-angels": {
+"fp": "8b3a3a37c7dc704c",
+"lastmod": "2026-10-14"
+},
+"/arue/evenements/4-events-pacific": {
+"fp": "2170252454f4b4fc",
+"lastmod": "2026-10-14"
+},
+"/arue/evenements/humblot-traiteur": {
+"fp": "9cd61e9161b9aaf2",
+"lastmod": "2026-10-14"
+},
+"/arue/evenements/les-jardins-de-violette": {
+"fp": "6734a5c95032b9e7",
+"lastmod": "2026-10-14"
+},
+"/arue/evenements/monsieur-dominique-bertre": {
+"fp": "0756602a34799ede",
+"lastmod": "2026-10-14"
+},
+"/arue/maison-habitat/kortex-tahiti-plans": {
+"fp": "ba3a5dccba48bffa",
+"lastmod": "2026-10-14"
+},
+"/arue/restauration-alimentation/carrefour-arue": {
+"fp": "cfadea683825178e",
+"lastmod": "2026-10-14"
+},
+"/arue/restauration-alimentation/noa-patisserie": {
+"fp": "0d3245256f18d757",
+"lastmod": "2026-10-14"
+},
+"/arue/sante-medecine/conseil-de-l-ordre-des-infirmiers-de-pf-c-o-i-p-f": {
+"fp": "54a27a7c0036db0e",
+"lastmod": "2026-10-14"
+},
+"/arue/shopping-artisanat/fare-du-collectionneur-et-de-la-perle": {
+"fp": "872a88b50d822567",
+"lastmod": "2026-10-14"
+},
+"/arue/vie-publique-communaute/funeraires-min-chiu": {
+"fp": "d26dcffe03b8e24b",
+"lastmod": "2026-10-14"
+},
+"/associations-ong": {
+"fp": "d51cd6751c5df51a",
+"lastmod": "2026-10-14"
+},
+"/auberges-de-jeunesse": {
+"fp": "47bd2a65cd4c7fa9",
+"lastmod": "2026-10-14"
+},
+"/automobile-nautisme": {
+"fp": "2ffcf0d3b3161e30",
+"lastmod": "2026-10-14"
+},
+"/avocats": {
+"fp": "bf364e0b65b9f3bb",
+"lastmod": "2026-10-14"
+},
+"/baie-de-povai/restauration-alimentation/boulangerie-bora-bora-chez-christian": {
+"fp": "55146a38c9809151",
+"lastmod": "2026-10-14"
+},
+"/bars-vie-nocturne": {
+"fp": "3bb722f579c0cbbd",
+"lastmod": "2026-10-14"
+},
+"/beaute-bien-etre": {
+"fp": "e773ada8be88c6c8",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/activites-loisirs/bora-bora-atv-tours": {
+"fp": "51b5c6cfb22d7da1",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/activites-loisirs/bora-bora-cultural-lagoon-tours": {
+"fp": "75ffeec9d3b12db0",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/activites-loisirs/bora-bora-rent-scooter-and-bike": {
+"fp": "fb79bdf05bfb3544",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/activites-loisirs/bora-diving-center": {
+"fp": "06b6dd5cac43e478",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/activites-loisirs/diveasy-bora-bora": {
+"fp": "39e79958a1b0031f",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/activites-loisirs/reef-discovery": {
+"fp": "391271973e9e8f4c",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/beaute-bien-etre/marama-tattoo": {
+"fp": "2986c1f1970c99f3",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/beaute-bien-etre/te-mahana-spa": {
+"fp": "53aa5b942fe81250",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/education-formation/lyc%c3%a9e-polyvalent-ihi-tea-no-vavau": {
+"fp": "b15d712d9e8284d0",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/evenements/legal-tahitian-wedding-ceremony-company-l-t-w": {
+"fp": "f57aa403d7a36a80",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/evenements/melm-make-up-and-hair": {
+"fp": "80b4aec203dfd30e",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/evenements/sadry-ghacir": {
+"fp": "91bffa008e38167e",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/evenements/wedding-bora-bora": {
+"fp": "5e0f8aa6520f913a",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/chez-nono-bora-bora": {
+"fp": "dd6f9146d6a60e34",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/conrad-bora-bora-nui": {
+"fp": "06a6a50253a745b7",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/four-seasons-resort-bora-bora": {
+"fp": "f35cf89180f5a479",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/intercontinental-bora-bora-le-moana-resort": {
+"fp": "ed3d5d7d0df88e69",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/le-bora-bora-by-pearl-resorts": {
+"fp": "85b7e4bfbdfdd76f",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/maitai-polynesia-bora-bora": {
+"fp": "e9a18c14ad0c5a09",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/pension-alice-et-raphael": {
+"fp": "60890a2817fd157b",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/hebergement-sejour/the-st-regis-bora-bora-resort": {
+"fp": "c97f3ae388b6d635",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/restauration-alimentation/la-villa-mahana": {
+"fp": "ace0beaff7122091",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/sante-medecine/clinique-veterinaire-otemanu": {
+"fp": "a963fed52dbc5f29",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/shopping-artisanat/authentic-bora-bora": {
+"fp": "0cf56c61a9179bfa",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/transport-vehicules/bora-bora-explorer": {
+"fp": "56c1589e29a6c2db",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/transport-vehicules/bora-bora-rent-scooter-and-bike": {
+"fp": "55621b6e67a03d6a",
+"lastmod": "2026-10-14"
+},
+"/bora-bora/transport-vehicules/tupuna-safari": {
+"fp": "047f221281c2dac3",
+"lastmod": "2026-10-14"
+},
+"/boulangeries-patisseries": {
+"fp": "8fda40089a1280f4",
+"lastmod": "2026-10-14"
+},
+"/cafes-salons-de-the": {
+"fp": "9573ce837bdc8d00",
+"lastmod": "2026-10-14"
+},
+"/campings-ecolodges": {
+"fp": "5849c0659ea053e9",
+"lastmod": "2026-10-14"
+},
+"/charpente-toiture": {
+"fp": "d879315e54d9bb1c",
+"lastmod": "2026-10-14"
+},
+"/coiffure-barbier": {
+"fp": "a0841f762ea26151",
+"lastmod": "2026-10-14"
+},
+"/commerces-magasins": {
+"fp": "568ba2b573f68f40",
+"lastmod": "2026-10-14"
+},
+"/construction-renovation": {
+"fp": "356f323064a87e5a",
+"lastmod": "2026-10-14"
+},
+"/creation-de-sites-web": {
+"fp": "ac5a298e6377a367",
+"lastmod": "2026-10-14"
+},
+"/culte-spiritualite": {
+"fp": "4d1703eb0256a271",
+"lastmod": "2026-10-14"
+},
+"/culture-decouverte": {
+"fp": "73557f8f81671050",
+"lastmod": "2026-10-14"
+},
+"/demenagement": {
+"fp": "faa2be637cd205dd",
+"lastmod": "2026-10-14"
+},
+"/education-formation": {
+"fp": "a0cecca13b4cfb10",
+"lastmod": "2026-10-14"
+},
+"/emploi": {
+"fp": "5a7d3fce4b958944",
+"lastmod": "2026-10-14"
+},
+"/emploi/cuisinier-cuisiniere-punaauia-834029": {
+"fp": "0f4cc634353d03e1",
+"lastmod": "2026-10-14"
+},
+"/enseignement-superieur-formation": {
+"fp": "be4a4a91315e44b6",
+"lastmod": "2026-10-14"
+},
+"/entreposage-stockage": {
+"fp": "a614ca53d0bc3e59",
+"lastmod": "2026-10-14"
+},
+"/entreprises": {
+"fp": "ecbf359cee2f2094",
+"lastmod": "2026-10-14"
+},
+"/equipement-industriel-btp": {
+"fp": "195eeb975553ea38",
+"lastmod": "2026-10-14"
+},
+"/etablissements-scolaires": {
+"fp": "41707d17779e7e36",
+"lastmod": "2026-10-14"
+},
+"/evenements": {
+"fp": "154c98d3ff08e9b2",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours": {
+"fp": "d0adbfd1abc1bad1",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/1-2-3-jentreprends-initiation-a-la-creation-dentreprise": {
+"fp": "9aef90a3c7893a90",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/11e-salon-des-tuamotu-gambier": {
+"fp": "10d0d63f11b9b488",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/23e-salon-des-australes": {
+"fp": "6dbd79ead77f8d0f",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/60e-salon-des-marquises": {
+"fp": "4137652e65830e6d",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/atelier-brassage-fare-pia-by-hoa": {
+"fp": "19188898dd6fe469",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/atelier-decriture-avec-audrey-gilles": {
+"fp": "f89ca912d4718d33",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/bebes-lecteurs-et-ptits-philosophes": {
+"fp": "59dddc793131f5aa",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/brunch-spectacle-oaoa": {
+"fp": "0e3e2554347fc7f4",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/call-me-maybe-spectacle-dimpro": {
+"fp": "41d226cd4112ed89",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/concert-de-la-paix": {
+"fp": "c2b6746dfc9a11c8",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/cross-triathlon-datimaono-2026": {
+"fp": "33438b324c57c1fd",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/etiquettia": {
+"fp": "7ee1f6063aaa15a0",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/exposition-artisanale-du-hura-tapairu": {
+"fp": "1ebca57b2e3ccfd3",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/exposition-eva-t-art": {
+"fp": "f40a934407215018",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/exposition-ora-ou-wen": {
+"fp": "b7de816f24febacb",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/exposition-paul-burns": {
+"fp": "f90facc2671dd999",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/exposition-photo-te-mata-o-te-fenua": {
+"fp": "bf5f329a6fbce842",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/exposition-stephane-motard": {
+"fp": "c060eb2d75e04d60",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/hawaiki-nui-va-a-solo": {
+"fp": "75136ad3c03e7d81",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/hawaiki-nui-vaa-2026": {
+"fp": "49081f5a63f7491a",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/hawaiki-nui-vaa-sprint-2026": {
+"fp": "e7ff1588c8528a3a",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/hoa-music-fest-2026": {
+"fp": "3d2289afbb817f02",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/hura-tapairu-2026": {
+"fp": "f0e715eebb4b735a",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/hura-tapairu-manihini-international": {
+"fp": "d135dd5df7762f31",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/jeremy-frerot-en-concert": {
+"fp": "5d48cf7692eade83",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/jeux-de-societe-et-heure-du-conte": {
+"fp": "f2faded87d1d71d3",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/journee-portes-ouvertes-de-la-distillerie-manao": {
+"fp": "6fdeed5aab6f3b13",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/keshi-creation-de-la-compagnie-du-cameleon": {
+"fp": "ae47d4ee45d1be54",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/la-fete-de-lenergie-2026": {
+"fp": "3278e74144dd5ecc",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/labribus": {
+"fp": "3fbce2bfba6ac850",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/lamour-ca-vous-ehpad": {
+"fp": "d3f2fc43e740a7f7",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/le-choix": {
+"fp": "ccf9f88ea997d70a",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/les-champignons-de-paris": {
+"fp": "73b955fab6f9a2c7",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/mahana-pae-journee-de-la-tiare-tahiti": {
+"fp": "9b20da0eb14f439e",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/mana-by-pepena-au-meherio": {
+"fp": "41af61f8ae8d2456",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/manu-payet-emmanuel-2": {
+"fp": "0bd47914c83e6bb5",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/marc-vella-leloge-de-la-fausse-note": {
+"fp": "8544a89e71793303",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/marche-bio-de-moorea": {
+"fp": "78a07031764f68b9",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/matarii-i-nia-a-papeete": {
+"fp": "bb17690a2872b746",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/noel-solidaire": {
+"fp": "9579afe188a88c77",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/nuit-vivante-octobre-rose": {
+"fp": "ce2669c76aae4169",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/olympians-swimrun-de-punaauia": {
+"fp": "6c3ff7817793007c",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/ori-tahiti-nui-competitions-2026": {
+"fp": "eeacae75392d352b",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/oxmo-puccino-demi-portion-en-concert": {
+"fp": "f6b9a18ea831c6d2",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/papeete-market-street": {
+"fp": "9b04af92ea4af584",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/perea-tama-ateliers-de-vacances": {
+"fp": "cffbc908af5a0991",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/pinainai-16-26-navenave": {
+"fp": "779d6067f30d7196",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/rauti-tumu-maohi-atelier-matarii": {
+"fp": "76722f6706d22eb8",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/rehe-sound-en-concert-au-ute-ute": {
+"fp": "fe1d7cee2b5596a5",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/salon-de-noel-de-lartisanat": {
+"fp": "1f4858b65de55bac",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/salon-du-livre-de-tahiti": {
+"fp": "00130451b60cdbbd",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/show-marquisien-kaputu-nui": {
+"fp": "3df32b78664572b2",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/show-polynesien-o-nounouhia-no-papara": {
+"fp": "03af9f2bb3faa438",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/soiree-gastronomique-autour-de-la-truffe": {
+"fp": "21815d05084ffc4c",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/soiree-marquisienne-avec-la-troupe-toa-huhina": {
+"fp": "5f19d39e42b22926",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/soiree-te-ui-tapairu-avec-la-troupe-hei-tahiti": {
+"fp": "f14b2a28d03c7c8c",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/swimrun-challenge-varua-swimrun-relais": {
+"fp": "2ab7fbbc38fcf0e4",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/swimrun-de-rangiroa-2026": {
+"fp": "885fae6129c4c092",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/taapuna-master-2026": {
+"fp": "3540e56fa758b8be",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/tahiti-fashion-week-2026": {
+"fp": "fdcad7d388078260",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/tahiti-moorea-ultra-trail-2026": {
+"fp": "1ceeb3228f6c27b4",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/tahiti-tattoo-fest-2026": {
+"fp": "7063ff2205c3d920",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/tahiti-yoga-festival-2026": {
+"fp": "ab647af08acd8120",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/tau-matarii-nia": {
+"fp": "4d70ec068a15c862",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/taurua-himene-de-mahina": {
+"fp": "28d703d2d4ba9cf5",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/taurua-himene-grand-theatre": {
+"fp": "772715e43dc11f14",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/te-ahi-toa-4e-edition": {
+"fp": "9481d7a6918f1574",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/te-ha-nui-soiree-polynesienne-avec-la-troupe-ruaragi": {
+"fp": "2de107a4b9eafb47",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/tere-matarii-i-nia": {
+"fp": "3f1f5ff3e0a06a2e",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/tere-na-uta-tahiti-en-4x4": {
+"fp": "8fd04ff3585606cd",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/toa-toru-vaa": {
+"fp": "5b19cdf25fe8e82e",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/totara-festival-2026": {
+"fp": "c4a671a4b592dbd0",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/un-poyo-rojo": {
+"fp": "b7672a804b46ebf0",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/vigie-a-terre-observer-les-baleines-avec-oceania": {
+"fp": "3ac991004e2486c1",
+"lastmod": "2026-10-14"
+},
+"/evenements-en-cours/xterra-triathlon-moorea-2026": {
+"fp": "742ae26cf2e81e1f",
+"lastmod": "2026-10-14"
+},
+"/experts-comptables": {
+"fp": "5152fba30a3d0ef0",
+"lastmod": "2026-10-14"
+},
+"/faa-a/education-formation/%c3%a9cole-primaire-priv%c3%a9e-notre-dame-des-anges": {
+"fp": "1c5b018862f09683",
+"lastmod": "2026-10-14"
+},
+"/faa-a/education-formation/bambini-cr%c3%a8che-garderie": {
+"fp": "0386a358ae16be50",
+"lastmod": "2026-10-14"
+},
+"/faa-a/education-formation/coll%c3%a8ge-henri-hiro": {
+"fp": "9153369aacc4a0af",
+"lastmod": "2026-10-14"
+},
+"/faa-a/education-formation/kid-s-school-tahiti": {
+"fp": "bffebe03d5b5d3c5",
+"lastmod": "2026-10-14"
+},
+"/faa-a/education-formation/lyc%c3%a9e-professionnel-de-faa-a": {
+"fp": "3667f48742d8c197",
+"lastmod": "2026-10-14"
+},
+"/faa-a/education-formation/magic-baby": {
+"fp": "b075fb21698ff652",
+"lastmod": "2026-10-14"
+},
+"/faa-a/education-formation/warning-auto-moto-%c3%a9cole": {
+"fp": "ed95c4459a5f6507",
+"lastmod": "2026-10-14"
+},
+"/faa-a/evenements/heirai-services": {
+"fp": "b69a28bbcb10420c",
+"lastmod": "2026-10-14"
+},
+"/faa-a/restauration-alimentation/chez-joe": {
+"fp": "5811b667d40c4cdc",
+"lastmod": "2026-10-14"
+},
+"/faa-a/restauration-alimentation/frero-della-pizza-faa-a": {
+"fp": "ebb0a2e2de454c8e",
+"lastmod": "2026-10-14"
+},
+"/faa-a/restauration-alimentation/restaurant-ocean-faa-a": {
+"fp": "80b64c702dccb958",
+"lastmod": "2026-10-14"
+},
+"/faa-a/sante-medecine/cabinet-dr-daniel-carnio": {
+"fp": "323a00e5ed476cb2",
+"lastmod": "2026-10-14"
+},
+"/faa-a/sante-medecine/cabinet-du-dr-pierre-robillard": {
+"fp": "68c6d04b66982a8a",
+"lastmod": "2026-10-14"
+},
+"/faa-a/services-aux-entreprises-b2b/bollore-logistics-polynesie-amantransit": {
+"fp": "7209fa58052f9e7a",
+"lastmod": "2026-10-14"
+},
+"/faa-a/services-aux-entreprises-b2b/l-agence-niu": {
+"fp": "2b8b91a63dffcbcf",
+"lastmod": "2026-10-14"
+},
+"/faa-a/services-aux-entreprises-b2b/matuvu-tahiti": {
+"fp": "9e8e769be0049b43",
+"lastmod": "2026-10-14"
+},
+"/faa-a/services-aux-entreprises-b2b/south-pacific-securite-sps": {
+"fp": "2bc0f59829a4af85",
+"lastmod": "2026-10-14"
+},
+"/faa-a/services-aux-entreprises-b2b/tahiti-formation": {
+"fp": "bdb5ad4de2656fe1",
+"lastmod": "2026-10-14"
+},
+"/faa-a/services-aux-entreprises-b2b/tahiti-transit": {
+"fp": "2941ed44c2198024",
+"lastmod": "2026-10-14"
+},
+"/faa-a/services-aux-entreprises-b2b/tti-tahiti": {
+"fp": "1a4220732bed3805",
+"lastmod": "2026-10-14"
+},
+"/faa-a/vie-publique-communaute/%c3%a9glise-saint-joseph-de-faa-a": {
+"fp": "1c35bb85307bc052",
+"lastmod": "2026-10-14"
+},
+"/faa-a/vie-publique-communaute/association-sportive-tefana": {
+"fp": "8d8fde4a1c7f3c97",
+"lastmod": "2026-10-14"
+},
+"/faa-a/vie-publique-communaute/mairie-de-faa-a": {
+"fp": "85d83a6106ac0403",
+"lastmod": "2026-10-14"
+},
+"/faaa/activites-loisirs/activiseas": {
+"fp": "e82fe1b932d9c587",
+"lastmod": "2026-10-14"
+},
+"/faaa/activites-loisirs/europcar": {
+"fp": "628b00a16e4b86d5",
+"lastmod": "2026-10-14"
+},
+"/faaa/activites-loisirs/tahiti-va-a-inc": {
+"fp": "4be43e27c607b947",
+"lastmod": "2026-10-14"
+},
+"/faaa/beaute-bien-etre/algotherm-spa": {
+"fp": "03876806926bc9c9",
+"lastmod": "2026-10-14"
+},
+"/faaa/maison-habitat/aqua-clean-tahiti": {
+"fp": "e184386f78fb52d6",
+"lastmod": "2026-10-14"
+},
+"/faaa/maison-habitat/coton-blanc-nettoyage": {
+"fp": "a6a8d5bac59a452b",
+"lastmod": "2026-10-14"
+},
+"/faaa/maison-habitat/faa-a-mat%c3%a9riaux": {
+"fp": "f5af8b58974ce611",
+"lastmod": "2026-10-14"
+},
+"/faaa/maison-habitat/le-dock-de-l-habitat": {
+"fp": "145d0b5cfd60f565",
+"lastmod": "2026-10-14"
+},
+"/faaa/restauration-alimentation/carrefour-faa-a": {
+"fp": "091cc341f3d3265d",
+"lastmod": "2026-10-14"
+},
+"/faaa/restauration-alimentation/l-arbre-a-pain": {
+"fp": "7aefbdbeef482823",
+"lastmod": "2026-10-14"
+},
+"/faaa/restauration-alimentation/le-lotus": {
+"fp": "15510825158ae590",
+"lastmod": "2026-10-14"
+},
+"/faaa/sante-medecine/clinique-veterinaire-de-faa-a-aeroport": {
+"fp": "82ab801ecd2d7d51",
+"lastmod": "2026-10-14"
+},
+"/faaa/sante-medecine/clinique-veterinaire-de-faa-a-auae": {
+"fp": "b84adefd4ef88379",
+"lastmod": "2026-10-14"
+},
+"/faaa/sante-medecine/dr-philippe-lacorre": {
+"fp": "7d0050be3c4ee28a",
+"lastmod": "2026-10-14"
+},
+"/faaa/sante-medecine/te-u-i-rau": {
+"fp": "22881a7fe2560ac1",
+"lastmod": "2026-10-14"
+},
+"/faaa/shopping-artisanat/faa-a-materiaux": {
+"fp": "b30d6a91bfae795c",
+"lastmod": "2026-10-14"
+},
+"/faaa/shopping-artisanat/monoi-tiki-tahiti": {
+"fp": "b524713658a309b3",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/air-archipels": {
+"fp": "e9e5b25d52869095",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/air-moana": {
+"fp": "9703f8083edd6158",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/air-tahiti": {
+"fp": "753c7fd96aadcfdb",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/eco-car-tahiti": {
+"fp": "b58cd52207a04260",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/europcar-polynesie": {
+"fp": "a921257b45ea5641",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/hertz-polynesie": {
+"fp": "612f77df0395264f",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/tahiti-easy-car": {
+"fp": "2688d29eca50d5d9",
+"lastmod": "2026-10-14"
+},
+"/faaa/transport-vehicules/taxi-wind-tahiti": {
+"fp": "40c7012ba01a7207",
+"lastmod": "2026-10-14"
+},
+"/formation-professionnelle": {
+"fp": "cf6da5fa213eeb9b",
+"lastmod": "2026-10-14"
+},
+"/fournitures-de-bureau": {
+"fp": "4cd0fe486139eb3e",
+"lastmod": "2026-10-14"
+},
+"/france-service-pour-la-polyn%c3%a9sie/services-aux-entreprises-b2b/sgc-maritime": {
+"fp": "b485c87ff311a308",
+"lastmod": "2026-10-14"
+},
+"/hao/education-formation/coll%c3%a8ge-de-hao": {
+"fp": "bc35ec1a81c9ec38",
+"lastmod": "2026-10-14"
+},
+"/hebergement-sejour": {
+"fp": "c2e9844a0ba0f327",
+"lastmod": "2026-10-14"
+},
+"/hitia-a-o-te-ra/restauration-alimentation/relais-de-la-maroto": {
+"fp": "8f210d9aab5fd63f",
+"lastmod": "2026-10-14"
+},
+"/hiva-oa/shopping-artisanat/kimitete-john-et-axel": {
+"fp": "091cd9e5e01e0944",
+"lastmod": "2026-10-14"
+},
+"/hotels-resorts": {
+"fp": "ef2fd5cb7cbd2f4a",
+"lastmod": "2026-10-14"
+},
+"/huahine/hebergement-sejour/hotel-le-mahana": {
+"fp": "c8a76b7f42686d77",
+"lastmod": "2026-10-14"
+},
+"/huahine/hebergement-sejour/maitai-lapita-village-huahine": {
+"fp": "2265583a9c14f783",
+"lastmod": "2026-10-14"
+},
+"/huahine/hebergement-sejour/moana-lodge": {
+"fp": "369f012c4d82240c",
+"lastmod": "2026-10-14"
+},
+"/huahine/hebergement-sejour/pension-fare-maeva": {
+"fp": "642bf7b4adac57af",
+"lastmod": "2026-10-14"
+},
+"/huahine/hebergement-sejour/pension-tupuna": {
+"fp": "77f268b5fcef1eed",
+"lastmod": "2026-10-14"
+},
+"/huissiers-de-justice": {
+"fp": "5553701549491286",
+"lastmod": "2026-10-14"
+},
+"/immobilier": {
+"fp": "8e6d4a7a8e4610f6",
+"lastmod": "2026-10-14"
+},
+"/immobilier-offres": {
+"fp": "8cabfb3a713b8324",
+"lastmod": "2026-10-14"
+},
+"/immobilier-offres/studio-a-louer-papeete": {
+"fp": "4dc8c2d4a1f1a769",
+"lastmod": "2026-10-14"
+},
+"/immobilier-offres/studios": {
+"fp": "23db5d009184c242",
+"lastmod": "2026-10-14"
+},
+"/imprimerie-signaletique": {
+"fp": "c1e10e43837254a7",
+"lastmod": "2026-10-14"
+},
+"/instituts-de-beaute-spa": {
+"fp": "5fe1a23bbbfdfcd7",
+"lastmod": "2026-10-14"
+},
+"/la-baule-france/shopping-artisanat/mg-fenua-creation": {
+"fp": "cdbba32947bc1919",
+"lastmod": "2026-10-14"
+},
+"/listing": {
+"fp": "61a97183d0654c0e",
+"lastmod": "2026-10-14"
+},
+"/location-de-vehicules": {
+"fp": "da3213cd76847175",
+"lastmod": "2026-10-14"
+},
+"/locations": {
+"fp": "9279dbb82c73614e",
+"lastmod": "2026-10-14"
+},
+"/locations-saisonnieres": {
+"fp": "58be1368101a12a9",
+"lastmod": "2026-10-14"
+},
+"/magasins-alimentaires": {
+"fp": "f9008fd3402a2e01",
+"lastmod": "2026-10-14"
+},
+"/maharepa/shopping-artisanat/have-a-nice-pearl": {
+"fp": "55fdb6b92cf976cf",
+"lastmod": "2026-10-14"
+},
+"/maharepa/shopping-artisanat/pearl-romance": {
+"fp": "382730b2a2786b3d",
+"lastmod": "2026-10-14"
+},
+"/mahina/education-formation/coll%c3%a8ge-de-mahina": {
+"fp": "76e133113d6acd04",
+"lastmod": "2026-10-14"
+},
+"/mahina/education-formation/mimi-soleil": {
+"fp": "7d6b96d0768d4a02",
+"lastmod": "2026-10-14"
+},
+"/mahina/education-formation/ta-iara": {
+"fp": "ec16710e62f9a8b3",
+"lastmod": "2026-10-14"
+},
+"/mahina/evenements/tolanoa": {
+"fp": "99088ffb4a35c4d9",
+"lastmod": "2026-10-14"
+},
+"/mahina/maison-habitat/charpentes-et-construction-bois-de-tahiti": {
+"fp": "9479cf0117c168f3",
+"lastmod": "2026-10-14"
+},
+"/mahina/restauration-alimentation/restaurant-la-casa-mahina": {
+"fp": "5fd00e2bdb878b74",
+"lastmod": "2026-10-14"
+},
+"/maison-habitat": {
+"fp": "f9d769bdba421b22",
+"lastmod": "2026-10-14"
+},
+"/marketing-digital": {
+"fp": "2f49a1bbec9a6971",
+"lastmod": "2026-10-14"
+},
+"/massage-relaxation": {
+"fp": "360d5e5ba1266b6a",
+"lastmod": "2026-10-14"
+},
+"/materiel-de-restauration": {
+"fp": "9503a030b3c4fe4d",
+"lastmod": "2026-10-14"
+},
+"/medecines-alternatives": {
+"fp": "1cff74002303171e",
+"lastmod": "2026-10-14"
+},
+"/medecins-specialistes": {
+"fp": "5f0770b9d9b91285",
+"lastmod": "2026-10-14"
+},
+"/mode-accessoires": {
+"fp": "132a5e5bbaff51f4",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/champion-moorea": {
+"fp": "4a1850fe4b47820e",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/coco-beach-moorea": {
+"fp": "34da05ee4738764b",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/creperie-toatea": {
+"fp": "991b77401533b270",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/holy-steak-house": {
+"fp": "cd50ab7311cab4fa",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/l-escale-no-temae": {
+"fp": "d4660daddb2e4f13",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/ml-experience-culinaire": {
+"fp": "84bca3f852794b0f",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/mo-z-pizza": {
+"fp": "35fdb105bcc50d6d",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/moorea-beach-cafe": {
+"fp": "75d943fdcf773e73",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/restaurant-le-cook-s": {
+"fp": "ed7ff70370e11395",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/restaurant-tiahura": {
+"fp": "5ad35f55ebabce49",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/snack-autea": {
+"fp": "0ed85870a6a1b71f",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/snack-la-cantine": {
+"fp": "fc694fe0f233f3eb",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/snack-mahana": {
+"fp": "77afe62a9cbcaaef",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/super-u-are": {
+"fp": "2609c8ad5a92355f",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/restauration-alimentation/tasty-moorea": {
+"fp": "dee984b37ecdbc01",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/transport-vehicules/coco-rider-moorea": {
+"fp": "39c8f0b702f1a534",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/transport-vehicules/moorea-fun-bike": {
+"fp": "9e5c9e194ca5cd59",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/transport-vehicules/moorea-fun-roadster": {
+"fp": "8ab78ea8d324874a",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/transport-vehicules/rent-a-bike-moorea": {
+"fp": "d856af0451516d79",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/vie-publique-communaute/mairie-de-moorea-maiao": {
+"fp": "125b33c9f94d56e9",
+"lastmod": "2026-10-14"
+},
+"/moorea-maiao/vie-publique-communaute/te-mana-o-te-moana": {
+"fp": "adeada001dffdae7",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/franckyfranck-moorea-tours": {
+"fp": "91790d7e46a9b4ff",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/laura-b-yoga-massage": {
+"fp": "e059333d3d259d28",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/moorea-activities-center": {
+"fp": "0165ed632342719f",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/moorea-blue-diving": {
+"fp": "ebc4ee812dd3aa6a",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/moorea-fun-dive": {
+"fp": "949d9254e668468f",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/moorea-green-pearl-golf-course": {
+"fp": "62d3e7787f3dd598",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/moorea-safari-tours": {
+"fp": "335a034a2176b015",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/ranch-opunohu-valley": {
+"fp": "ec30ca6b331165c0",
+"lastmod": "2026-10-14"
+},
+"/moorea/activites-loisirs/tip-nautic": {
+"fp": "74be31647695a20c",
+"lastmod": "2026-10-14"
+},
+"/moorea/beaute-bien-etre/laura-b-yoga-massages": {
+"fp": "f7e9d6258b4cd266",
+"lastmod": "2026-10-14"
+},
+"/moorea/beaute-bien-etre/manaya-massage-moorea": {
+"fp": "c0a2d4779de0651f",
+"lastmod": "2026-10-14"
+},
+"/moorea/beaute-bien-etre/moorea-tattoo": {
+"fp": "9184bf00c6219b09",
+"lastmod": "2026-10-14"
+},
+"/moorea/education-formation/aquasplash-moorea": {
+"fp": "12bf6ab5f9ce8ad2",
+"lastmod": "2026-10-14"
+},
+"/moorea/evenements/paulina-cadoret-photography": {
+"fp": "fc0ed70653bce2e2",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/fare-arana-moorea-guesthouse": {
+"fp": "695f89526094f3b2",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/fare-aute-beach": {
+"fp": "4af3565d6e3d4864",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/fare-maheata": {
+"fp": "efa89443d33a8cf8",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/hilton-moorea-lagoon-resort-and-spa": {
+"fp": "e8e720c86bfb8c51",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/hotel-fenua-mata-i-oa": {
+"fp": "871cf965ce07f036",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/manava-beach-resort-spa-moorea": {
+"fp": "4155704715d57e20",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/moorea-beach-lodge": {
+"fp": "94fe7c127fa433a9",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/moorea-reef-bungalows": {
+"fp": "2eafdc5374538d54",
+"lastmod": "2026-10-14"
+},
+"/moorea/hebergement-sejour/sofitel-kia-ora-moorea-beach-resort": {
+"fp": "0e5d1669bbcdb42e",
+"lastmod": "2026-10-14"
+},
+"/moorea/maison-habitat/m-t-e-moorea-travaux-ext%c3%a9rieurs": {
+"fp": "08518b15a5a31e31",
+"lastmod": "2026-10-14"
+},
+"/moorea/maison-habitat/tic-tac-plomberie": {
+"fp": "afb0f45f1d6c654e",
+"lastmod": "2026-10-14"
+},
+"/moorea/sante-medecine/valvet": {
+"fp": "08891b1541115a76",
+"lastmod": "2026-10-14"
+},
+"/moorea/shopping-artisanat/cocoblanc-moorea": {
+"fp": "c60015efcc245ded",
+"lastmod": "2026-10-14"
+},
+"/moorea/shopping-artisanat/moorea-sports": {
+"fp": "40fad2811918dba9",
+"lastmod": "2026-10-14"
+},
+"/notaires": {
+"fp": "ad7c810c5e27f8ac",
+"lastmod": "2026-10-14"
+},
+"/nuku-hiva/sante-medecine/cabinet-veterinaire-de-nuku-hiva": {
+"fp": "a85b3bd90dc84ed0",
+"lastmod": "2026-10-14"
+},
+"/nuku-hiva/shopping-artisanat/etienne-tamarii": {
+"fp": "1d407845ba603835",
+"lastmod": "2026-10-14"
+},
+"/nuku-hiva/vie-publique-communaute/association-cin%c3%a9marquises": {
+"fp": "75a1eb84485501ed",
+"lastmod": "2026-10-14"
+},
+"/nuku-hiva/vie-publique-communaute/association-patutiki": {
+"fp": "79c57d54c99be575",
+"lastmod": "2026-10-14"
+},
+"/organisation-d-evenements": {
+"fp": "36f164d1e710dcb0",
+"lastmod": "2026-10-14"
+},
+"/paea/beaute-bien-etre/s-coupe-coiffure-barbiere": {
+"fp": "9c7aa4002935f51b",
+"lastmod": "2026-10-14"
+},
+"/paea/education-formation/chouna": {
+"fp": "6f86dbeaecf1e4ae",
+"lastmod": "2026-10-14"
+},
+"/paea/maison-habitat/vdm-charpente": {
+"fp": "fe86a028aa664a18",
+"lastmod": "2026-10-14"
+},
+"/paea/restauration-alimentation/frero-della-pizza-paea": {
+"fp": "19313739ab1cc48c",
+"lastmod": "2026-10-14"
+},
+"/paea/restauration-alimentation/lani-s-bbq": {
+"fp": "33824f62ac79ae4c",
+"lastmod": "2026-10-14"
+},
+"/paea/restauration-alimentation/tropical-grill": {
+"fp": "0431bb8e2efec9ad",
+"lastmod": "2026-10-14"
+},
+"/paea/transport-vehicules/marama-location": {
+"fp": "030c0aeb12480c01",
+"lastmod": "2026-10-14"
+},
+"/paea/transport-vehicules/tahiti-auto-center": {
+"fp": "1cb1dc534c073bf6",
+"lastmod": "2026-10-14"
+},
+"/paopao/beaute-bien-etre/moorea-coiffure-jdavid": {
+"fp": "3e3d1dace44cf729",
+"lastmod": "2026-10-14"
+},
+"/paopao/evenements/ml-experience-culinaire-marc-lintanf": {
+"fp": "79b5a09858abb7b8",
+"lastmod": "2026-10-14"
+},
+"/paopao/hebergement-sejour/poerani-moorea": {
+"fp": "4c909b114d50cbc6",
+"lastmod": "2026-10-14"
+},
+"/papara/activites-loisirs/olivier-breaud-international-golf": {
+"fp": "5d11f710fb4d0d78",
+"lastmod": "2026-10-14"
+},
+"/papara/activites-loisirs/taie-fa-ahe-e-surf-school": {
+"fp": "3721facfdf804c67",
+"lastmod": "2026-10-14"
+},
+"/papara/beaute-bien-etre/design-coiffure-rama-987-agathe": {
+"fp": "c32c8cc33471e68d",
+"lastmod": "2026-10-14"
+},
+"/papara/education-formation/coll%c3%a8ge-de-papara": {
+"fp": "86de1a799b1d5054",
+"lastmod": "2026-10-14"
+},
+"/papara/education-formation/en-plein-ciel": {
+"fp": "94a2a361297d8cd3",
+"lastmod": "2026-10-14"
+},
+"/papara/education-formation/lyc%c3%a9e-tuianu-le-gayic": {
+"fp": "41fc52f2ab0a38f4",
+"lastmod": "2026-10-14"
+},
+"/papara/evenements/florever-tahiti": {
+"fp": "4846886d0647ff53",
+"lastmod": "2026-10-14"
+},
+"/papara/maison-habitat/toit-du-pacifique": {
+"fp": "a990621cdf452773",
+"lastmod": "2026-10-14"
+},
+"/papara/restauration-alimentation/o-taharu-u-food-truck": {
+"fp": "f6a06ef40fc4e3d0",
+"lastmod": "2026-10-14"
+},
+"/papara/restauration-alimentation/pizza-papy": {
+"fp": "611fab3c8493ae75",
+"lastmod": "2026-10-14"
+},
+"/papara/restauration-alimentation/restaurant-hani": {
+"fp": "e7bcd324ddc68bd7",
+"lastmod": "2026-10-14"
+},
+"/papara/sante-medecine/cabinet-infirmier-de-taharu-u": {
+"fp": "b82bdcaee16616fe",
+"lastmod": "2026-10-14"
+},
+"/papara/sante-medecine/centre-medical-taharu-u-kinesitherapie": {
+"fp": "c158bf802606b6a2",
+"lastmod": "2026-10-14"
+},
+"/papara/shopping-artisanat/comptoir-des-monoi": {
+"fp": "4b85d64175733286",
+"lastmod": "2026-10-14"
+},
+"/papara/transport-vehicules/ghost-rider-tuning": {
+"fp": "1e7d5ec51e47c158",
+"lastmod": "2026-10-14"
+},
+"/papara/transport-vehicules/manaventura-tahiti": {
+"fp": "d3fd8c03dcb37cf6",
+"lastmod": "2026-10-14"
+},
+"/papara/vie-publique-communaute/sos-villages-d-enfants-de-polyn%c3%a9sie": {
+"fp": "91950473226e1d95",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/centre-des-metiers-d-art": {
+"fp": "36d82d7399f6f0bd",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/fitness-park-mamao": {
+"fp": "1daa2c98d48646b3",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/kea-kua-art-tahiti": {
+"fp": "023db7fa6d207c18",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/liberty-gym": {
+"fp": "d751bb5b268cd6ec",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/maison-de-la-culture": {
+"fp": "d8c5d7a9759e1e9e",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/poe-charter": {
+"fp": "66655dd37bc29b5c",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/risingfit": {
+"fp": "9427eb245745916e",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/tahiti-excursions": {
+"fp": "b38305dffb33cbd8",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/tahiti-sail-and-dive": {
+"fp": "c08c3fdc898b79a6",
+"lastmod": "2026-10-14"
+},
+"/papeete/activites-loisirs/te-hau-pilates-studio": {
+"fp": "118272e85fb9f6ac",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/axo-barber-studio": {
+"fp": "c072a7d420af4e92",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/birdie-tahiti": {
+"fp": "ea074c5a53c666ad",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/corner-barber-shop": {
+"fp": "850261cab2f2e3fc",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/dessange-papeete-tahiti": {
+"fp": "a04e70de6648d047",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/grains-de-beaute-institut": {
+"fp": "98c803f07f23a661",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/hinaiti-studio": {
+"fp": "69c8e22a6ce042d4",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/l-institut-du-visage": {
+"fp": "756419f86d08da36",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/le-boudoir-tahiti": {
+"fp": "314ff367d5deddf6",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/mahana-tatau": {
+"fp": "5401920ee28d8ae1",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/mako-tahiti": {
+"fp": "b116ce4e0350bbaf",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/mana-o-tattoo-studio": {
+"fp": "7975741e51070963",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/nail-and-glow": {
+"fp": "36c97a5378343a34",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/ohina": {
+"fp": "369ff5aa83794671",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/pina-tatoo": {
+"fp": "e3db6d41ad0a9934",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/rock-nails-by-heitu": {
+"fp": "f8c2b9bd5fd2a136",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/senso-by-elo": {
+"fp": "7a4e8e3b91a3d917",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/simeon-tatoo": {
+"fp": "f817570aecfbc797",
+"lastmod": "2026-10-14"
+},
+"/papeete/beaute-bien-etre/tattoo-by-patu": {
+"fp": "19a072210ad204a2",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/%c3%a9cole-primaire-priv%c3%a9e-adventiste-de-tiarama": {
+"fp": "740e39decb9cebda",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/auto-ecole-polynesia": {
+"fp": "091760fd1cdc18a1",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/ccism-formation": {
+"fp": "b6ec50e6dbd7579a",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/coll%c3%a8ge-anne-marie-javouhey": {
+"fp": "498a17942c6c0a14",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/coll%c3%a8ge-la-mennais": {
+"fp": "8dcb69962a560497",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/coll%c3%a8ge-pomare-iv": {
+"fp": "6e2e2fd06803341c",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/groupe-scolaire-hitivainui-vaitama": {
+"fp": "d045de0518ba88a8",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/karine-desfour": {
+"fp": "65bed90fdead45a8",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/l-%c3%aele-enchant%c3%a9e": {
+"fp": "548516d49ccb6fb2",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/le-cours-d-ecole": {
+"fp": "9def3a5c0f2b1949",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/lyc%c3%a9e-paul-gauguin": {
+"fp": "fe549cba41355d73",
+"lastmod": "2026-10-14"
+},
+"/papeete/education-formation/soskool": {
+"fp": "4a08f6d1397cf98c",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/db-tahiti": {
+"fp": "1d16cfca3f827b9c",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/decoflor": {
+"fp": "88ca02e20577d385",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/fenua-events": {
+"fp": "517c9e1d98955ea5",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/fleurs-et-merveilles": {
+"fp": "9246d9a3323609e9",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/le-boudoir-tahiti": {
+"fp": "94485f90c25d7cfc",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/saveurs-des-iles-tahiti": {
+"fp": "7aff7645cbc30d2c",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/symbio-s": {
+"fp": "59fe76ca04ab8bc0",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/tahiti-expert-events": {
+"fp": "b6569d1fbc7ac601",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/tahiti-fleurs": {
+"fp": "33469a3776a52a8c",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/tekura-tahiti-travel": {
+"fp": "81ab304898d27cc7",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/the-showroom-by-audrey-bodilis": {
+"fp": "8809a1605e64d923",
+"lastmod": "2026-10-14"
+},
+"/papeete/evenements/wedotahiti": {
+"fp": "920daf81d32570f0",
+"lastmod": "2026-10-14"
+},
+"/papeete/hebergement-sejour/boutique-hotel-kon-tiki-tahiti": {
+"fp": "79ba936daa67f6d3",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/1-2-3-plomberie": {
+"fp": "ce7ab89a7536a931",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/agence-polyn%c3%a9sienne-de-l-immobilier-projet-immo": {
+"fp": "278d756caffb8432",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/antipodes-architecture-design": {
+"fp": "a9e934025cf0c5a6",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/aqua-design-piscines-et-spas-desjoyaux": {
+"fp": "7a29247a074d9abe",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/atelier-d-architecture-khalil-anastas": {
+"fp": "48c3e7caf1061296",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/atike-immobilier-tahiti": {
+"fp": "596cbba7169d7291",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/avillas-constructions": {
+"fp": "7c6436acefad7863",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/brico-lab-les-ateliers-partag%c3%a9s": {
+"fp": "a1d44d85d9e69933",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/cabinet-de-g%c3%a9om%c3%a8tre-wild": {
+"fp": "a7f7cd1961aabf85",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/clavery-design": {
+"fp": "7b6273d294b92cb0",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/cogep-immobilier-tahiti": {
+"fp": "b523813f4318860b",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/cte-tahiti": {
+"fp": "f3a26b0d76a0fe5d",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/deco-bain-maison": {
+"fp": "e2bedb42cb998b9a",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/entreprise-iena": {
+"fp": "d4c08707147c70a4",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/ets-manhein-tahiti": {
+"fp": "597dd85ad78cd1ac",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/expert-renovation": {
+"fp": "a9bcf2a71a3c5717",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/ge-%c5%8dti-a": {
+"fp": "9c63aa64058c0527",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/gf-plomberie": {
+"fp": "aae1f5effe663b7f",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/immobilier-tahiti-nestenn": {
+"fp": "70a404f54e098678",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/interieur-design-tahiti": {
+"fp": "66a72b5d48f20883",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/island-studio-architecture": {
+"fp": "c6f215c2580673c3",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/la-maison-du-meuble": {
+"fp": "fd0613035621e1dd",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/laurent-%c3%a9lectricit%c3%a9-g%c3%a9n%c3%a9rale": {
+"fp": "1380c58b84539613",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/les-ateliers-penua": {
+"fp": "bf8f504101bf4818",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/les-compagnons-polyn%c3%a9siens": {
+"fp": "20a8c99869153509",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/les-piscines-du-fenua": {
+"fp": "8e12096ca45a3411",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/ming-elec": {
+"fp": "7224dcaf94ce4bb1",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/monsieur-propre-tahiti": {
+"fp": "88a8ef3803520396",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/my-plan-archi": {
+"fp": "6e10ce5d4b7af5dc",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/n%c4%abnamu-immobilier": {
+"fp": "e8f96722f5861482",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/nature-d-art-tahiti": {
+"fp": "430dee5860d07de2",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/pacific-gallery": {
+"fp": "6f022d98afb1f3de",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/sarl-geometrix": {
+"fp": "45d1dbb155390586",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/sipa-papeete-taravao": {
+"fp": "5e0d8b9163b7f9ba",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/tahiti-elec-video-alarme": {
+"fp": "2b98246170d529b1",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/tahiti-m%c3%a9nager": {
+"fp": "16702191db4c63a2",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/tahiti-pest-control": {
+"fp": "4f7c7e49989a0f5d",
+"lastmod": "2026-10-14"
+},
+"/papeete/maison-habitat/tesa-digital": {
+"fp": "5680e6222464e408",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/baroof": {
+"fp": "e10dcaa955ea216f",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/bogato-la-patisserie": {
+"fp": "1533bb35edeb31dd",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/bora-bora-lounge": {
+"fp": "28034029b300ef98",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/cafe-maeva": {
+"fp": "8c877a71d80ce7f4",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/champion-papeete-paofai": {
+"fp": "bbe222c13c86179b",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/chez-remy-papeete": {
+"fp": "e11071df30678e95",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/columbus-cafe-co": {
+"fp": "e841180780767d9a",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/comptoir-commercial-cecile": {
+"fp": "043506b0bb80d231",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/epicerie-eco-vrac": {
+"fp": "7b24cc02955656d9",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/hei-restaurant": {
+"fp": "27cf2eb79ea1b432",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/j-am": {
+"fp": "756ca9b34c49ede1",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/jeff-de-bruges": {
+"fp": "cad79188f4f974b0",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/kaua-a-cafe": {
+"fp": "c40091f820c5ea37",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/kon-tiki-coffee": {
+"fp": "46e23b6807770332",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/l-auberg-in": {
+"fp": "90f06c56a642b39a",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/l-o-a-la-bouche": {
+"fp": "491635c3382ac8f0",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/l-oasis-du-vaima": {
+"fp": "e0a5a4c1b4348d3a",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/la-cave-de-tahiti": {
+"fp": "2dfd0f9dda8880a4",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/la-chocolaterie-by-manini": {
+"fp": "d8b6edf90799a8fe",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/la-marquisienne": {
+"fp": "7b20a1e5782a6891",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/la-pizzeria": {
+"fp": "9d82cc01edf3fe67",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-106": {
+"fp": "862221ae5a779518",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-grillardin": {
+"fp": "0118379eeb1f6b6f",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-kozy": {
+"fp": "edcb24775d997ee0",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-mandarin": {
+"fp": "068809eecdb27522",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-morrison-s-cafe": {
+"fp": "e32ca672ab79c9ef",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-palais-patisserie": {
+"fp": "d127526a0cf03154",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-raina": {
+"fp": "fde18f6c674b24cf",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-retro": {
+"fp": "f235486cd2e37a5b",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-souffle": {
+"fp": "d8438c97e8610447",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/le-sully": {
+"fp": "9d7e2ca80ce75c7e",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/les-3-brasseurs": {
+"fp": "3845ede562501154",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/les-joly-tchic-tchoc": {
+"fp": "f58dc7aa1ffedca5",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/manava-cafe": {
+"fp": "29c282b1c340aa26",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/marche-de-papeete": {
+"fp": "c15e31d2efd819d0",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/millesime": {
+"fp": "deb462219f678f1d",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/paradise-night": {
+"fp": "bd7368822b6b8b7c",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/patachou": {
+"fp": "494400c6d66191c4",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/patisserie-d-hilaire": {
+"fp": "979f2515cf707448",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/pimp-my-bowl": {
+"fp": "c26585e67c1a9690",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/pizza-ny": {
+"fp": "2e260c8a7ee27051",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/restaurant-jimmy": {
+"fp": "a2bde5fff257a03b",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/roulotte-chez-dominique": {
+"fp": "470302c93f001970",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/roulottes-de-la-place-vaiete": {
+"fp": "2255a95c3961ed19",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/saveurs-des-iles-tahiti": {
+"fp": "761091fe2797b42f",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/sugar-bar-nightclub": {
+"fp": "f293203a98d111e7",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/urban-cafe": {
+"fp": "8f962163aec4afef",
+"lastmod": "2026-10-14"
+},
+"/papeete/restauration-alimentation/villa-thai": {
+"fp": "8a937cbc4c88c18f",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/alexandra-pouget-psychologue": {
+"fp": "5f9b7bfb810d481e",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/amel-kebdani-kinetahiti": {
+"fp": "0816427ec00511bc",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/audrey-rondet-orthophoniste": {
+"fp": "bca51c4ade7480d3",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/bio-pacifique": {
+"fp": "64918b0dcb5b801a",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/cabinet-de-podologie-pascal-maillard": {
+"fp": "d9aa47d980f3a4c7",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/cabinet-dentaire-des-dr-jean-pierre-levaux-et-agathe-failloux": {
+"fp": "5c9627ebdf540e66",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/cabinet-dentaire-dr-gerard-cabral-associes": {
+"fp": "c8d4cf85699d10dd",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/centre-de-soins-et-de-recuperation-csr": {
+"fp": "493c7e2fab7be053",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-antoine-carpentier": {
+"fp": "6465c34c6e607d56",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-elma-khoobarry": {
+"fp": "e3903aa7a1480227",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-florence-fourquet-herve": {
+"fp": "055bda35e85e058f",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-francois-vu-dinh": {
+"fp": "89d2560677da86e6",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-ines-leroux": {
+"fp": "876ade2dc9e8d05c",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-jean-jacques-gelberg": {
+"fp": "93f8c66b6afd7d49",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-jean-marc-segalin": {
+"fp": "a0820f7e0a8ed6e7",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-kim-hoang": {
+"fp": "7a725b169c1daa4e",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-michel-galtier": {
+"fp": "b2d847848c62b7b5",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-myriam-pangaud": {
+"fp": "0fe869673a2d1818",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-pierre-robin": {
+"fp": "12b1b4c34d040120",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-pierre-sanderre": {
+"fp": "535be50f809605dd",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-vaianu-leroy": {
+"fp": "8f7ac2b45be9b1b1",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/dr-yannick-nochez": {
+"fp": "be0d3cf8d7d8b15c",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/laboratoire-de-biologie-medicale-paofai": {
+"fp": "7f90881c4ba60ea3",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/pharmacie-du-port": {
+"fp": "d5181adbfe0bc60d",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/pharmacie-fariipiti": {
+"fp": "9c38335e971e3bd8",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/pharmacie-mamao": {
+"fp": "21b70d817dd4178a",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/pharmacie-vaima": {
+"fp": "00d4cd1c8f5ea2f8",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/pierre-saint-vaast-osteopathe": {
+"fp": "0166580a77047773",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/sophie-brilland-psychologue": {
+"fp": "2963bf779e8969c3",
+"lastmod": "2026-10-14"
+},
+"/papeete/sante-medecine/thomas-dairou-osteopathe": {
+"fp": "d4910696ede33d39",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/audit-pacifique-s-a-r-l": {
+"fp": "cd0092983495c1cb",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/bdo-fitec-sarl": {
+"fp": "b9658ce472b8d36b",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/bureautique-de-tahiti": {
+"fp": "d5aaa6ae8503f51a",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/cabinet-dominique-antz": {
+"fp": "3c2bd91ffa8e4c65",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/cabinet-fma-avocats": {
+"fp": "f7e4c31d0d1c463d",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/cabinet-levy-conseil-immobilier": {
+"fp": "fdeff6470e5eea26",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/cabinet-tiki-legal": {
+"fp": "cc27b05f577780ca",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/ccism": {
+"fp": "ccb98acea6741c18",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/chrysalide-tahiti": {
+"fp": "503b4f4950e59fc2",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/cte-tahiti": {
+"fp": "995a86e7c07512c0",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/fenua-cr%c3%a9ations": {
+"fp": "1a42543f65ee7022",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/g%c3%a9n%c3%a9ral-bureautique": {
+"fp": "840d77bb9e874277",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/kpmg-entreprises-s-a": {
+"fp": "c68617f690eee412",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/office-one": {
+"fp": "af9ac4c80951e06f",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/polyn%c3%a9sie-int%c3%a9rim": {
+"fp": "b961679279465568",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/polynesie-transit": {
+"fp": "235771d7af069592",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/pro-int%c3%a9rim-profiles": {
+"fp": "f387af317271c801",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/scp-g%c3%a9rard-lehartel-dania-ueva-june-lote": {
+"fp": "d404ba2ac7afbf81",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/scp-monnot-heimata-et-vernaudon-teretina": {
+"fp": "3c7f4ecdb0424cdd",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/scp-office-notarial-clemencet-pinna-mou-hing": {
+"fp": "f22f457a2e954231",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/scp-office-notarial-dubouch-guichenu": {
+"fp": "235a1b163c0e4fbf",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/sefi": {
+"fp": "757baed207ba66c9",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/selarl-jurispol": {
+"fp": "0cd95e03d0621a7f",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/sti-service-de-la-traduction-et-de-l-interpr%c3%a9tariat": {
+"fp": "b053064b58a54b5d",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/tahiti-drones": {
+"fp": "1d6dc8156cfe1005",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/tahiti-private-security-tps": {
+"fp": "9f2c2a5b2d9a2d2e",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/tahiti-s%c3%a9curit%c3%a9": {
+"fp": "901bcb4745e108a1",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/tahiti-sign": {
+"fp": "fac73bfa67a4e815",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/tahiticom": {
+"fp": "e2a9405418573d03",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/temana-import": {
+"fp": "874e85168a161794",
+"lastmod": "2026-10-14"
+},
+"/papeete/services-aux-entreprises-b2b/tiki-agency": {
+"fp": "e29eff2b1ae70373",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/ace-sin-tung-hing": {
+"fp": "aeaea43bc00062eb",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/aloha-tahiti": {
+"fp": "8487c11ed1f4e797",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/art-griculture-tahiti": {
+"fp": "b1f53c154ee6e469",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/bijouterie-corrion": {
+"fp": "6ca89982e17aab12",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/cicorella-designer": {
+"fp": "68e7f62d00a00cf2",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/enzor-bijouterie": {
+"fp": "428fb16c1c06a861",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/flyingcloud-swim-tahiti": {
+"fp": "069a23e0559fda4f",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/galerie-ganesha-art-du-pacifique": {
+"fp": "dbadc6dc9d8c215b",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/gemo-tahiti": {
+"fp": "89278cc9399c36fb",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/l-escale-de-tahiti-maite-curios": {
+"fp": "3194f7d2f9d79eb1",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/le-dressing-tahiti": {
+"fp": "cf13317e4cf67032",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/librairie-archipels": {
+"fp": "3758afb5b4ea5298",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/librairie-klima": {
+"fp": "cbcf637d353d4f6e",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/odyssey-tahiti": {
+"fp": "712f6e8f9542180a",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/ohani-tahiti": {
+"fp": "42ce36aee2991cae",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/robert-wan-pearl-museum": {
+"fp": "f5c15c9466969190",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/stretch-tahiti": {
+"fp": "1da2a13cd35a4618",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/tahiti-pearl-market": {
+"fp": "6d8e51e36150acda",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/the-boardhouse-tahiti": {
+"fp": "8c9cea07b8534f16",
+"lastmod": "2026-10-14"
+},
+"/papeete/shopping-artisanat/tish-boutique": {
+"fp": "39acac538b67af52",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/aremiti": {
+"fp": "5ba526bbaec49e10",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/avis-pacificar": {
+"fp": "289ffc89913bfa47",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/avis-tahiti-vente-vo": {
+"fp": "5040a4820833e1ae",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/car-protech-tahiti": {
+"fp": "30be0bacd4369b04",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/coordination-des-taxis-de-tahiti-moorea": {
+"fp": "3fc1db6fb95db2a7",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/equip-auto": {
+"fp": "f25ae71155b51892",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/groupe-sodiva-occasions": {
+"fp": "2f54d0e61da5dc47",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/hello-scoot": {
+"fp": "b627d1d700ce35ca",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/nautisport": {
+"fp": "ee3ac73488a612e3",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/pieces-auto-center": {
+"fp": "e118d161fb84ac96",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/sail-tahiti": {
+"fp": "ffe99bcb585063de",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/sodiva": {
+"fp": "2156109f76ce761d",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/sopadep": {
+"fp": "d776047ec0b6b224",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/sta-societe-tahitienne-automobile": {
+"fp": "e0c1374f89448f01",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/tahiti-auto-accessoires": {
+"fp": "2194a1b882e581bc",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/tahiti-automobiles-sav": {
+"fp": "c6ee67cf0a4e6578",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/tahiti-rent": {
+"fp": "65dfc40edc988de8",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/taxi-papeete": {
+"fp": "a0565cc0a4c79fec",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/taxi-tahiti-drivy": {
+"fp": "bf919c06d481337b",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/technimarine-tahiti": {
+"fp": "d7e99e6f0edbd2d2",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/terevau": {
+"fp": "200a6474b310eb79",
+"lastmod": "2026-10-14"
+},
+"/papeete/transport-vehicules/vaeara-i": {
+"fp": "866c93f6e9cd0b74",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/association-face-polyn%c3%a9sie-fran%c3%a7aise": {
+"fp": "f7eac44f6ad908af",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/association-harrison-w-smith": {
+"fp": "8d37f8caf12979e5",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/association-te-tuaka-project": {
+"fp": "562dd9507e35a4f7",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/bureau-de-poste-de-papeete": {
+"fp": "90b4b384aa8f067d",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/caisse-de-pr%c3%a9voyance-sociale-cps": {
+"fp": "d7057439feb29c0c",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/cath%c3%a9drale-notre-dame-de-papeete": {
+"fp": "bc3ac1dead38e030",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/direction-de-la-sant%c3%a9": {
+"fp": "a5d3ec9b14834de8",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/direction-des-solidarit%c3%a9s-dsfe": {
+"fp": "4817d7cf8d29c97c",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/f%c3%a9d%c3%a9ration-te-niu-o-te-huma": {
+"fp": "cfa31c3df7630abe",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/fape-te-ora-naho": {
+"fp": "d69fa367d65c4743",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/haut-commissariat-de-la-r%c3%a9publique": {
+"fp": "1eb8e7e6bd7da2f1",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/mairie-de-papeete": {
+"fp": "c07e1eb0f70dc347",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/musique-en-polyn%c3%a9sie": {
+"fp": "909a9ca545bde14b",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/secours-catholique-caritas-polyn%c3%a9sie": {
+"fp": "75b50e87840fcb9c",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/service-de-l-emploi-sefi": {
+"fp": "677e72aecd9e1a2e",
+"lastmod": "2026-10-14"
+},
+"/papeete/vie-publique-communaute/temple-protestant-de-paofai": {
+"fp": "ab779a404226d1ad",
+"lastmod": "2026-10-14"
+},
+"/papenoo/activites-loisirs/itinui-surf-school": {
+"fp": "dc32affba4c91752",
+"lastmod": "2026-10-14"
+},
+"/papenoo/activites-loisirs/mo-o-surf-school": {
+"fp": "63c166afa64b33d4",
+"lastmod": "2026-10-14"
+},
+"/parea/shopping-artisanat/la-maison-du-pareo": {
+"fp": "e291acd5a42ed6fd",
+"lastmod": "2026-10-14"
+},
+"/pensions-de-famille": {
+"fp": "6d56094aa123a21d",
+"lastmod": "2026-10-14"
+},
+"/perles-bijoux": {
+"fp": "0a32e9d6b345530e",
+"lastmod": "2026-10-14"
+},
+"/petite-enfance": {
+"fp": "9b9b0391ce1b1431",
+"lastmod": "2026-10-14"
+},
+"/pharmacies-laboratoires": {
+"fp": "86540385376d20e4",
+"lastmod": "2026-10-14"
+},
+"/photographes-videastes": {
+"fp": "ba5d0778049902b9",
+"lastmod": "2026-10-14"
+},
+"/pirae/beaute-bien-etre/villa-spa-tahiti": {
+"fp": "5030c56f0e43db41",
+"lastmod": "2026-10-14"
+},
+"/pirae/education-formation/%c3%a9cole-saint-paul-sainte-th%c3%a9r%c3%a8se": {
+"fp": "38cfa3f9927b6b45",
+"lastmod": "2026-10-14"
+},
+"/pirae/education-formation/cfpa-centre-de-formation-professionnelle-pour-adultes": {
+"fp": "deed3c34f32013bf",
+"lastmod": "2026-10-14"
+},
+"/pirae/education-formation/garderie-tatie-philo": {
+"fp": "509f3b303f059d74",
+"lastmod": "2026-10-14"
+},
+"/pirae/education-formation/grepfoc": {
+"fp": "88f5bb0f5aadccb2",
+"lastmod": "2026-10-14"
+},
+"/pirae/education-formation/lyc%c3%a9e-diad%c3%a8me": {
+"fp": "10b65de9ad751b8f",
+"lastmod": "2026-10-14"
+},
+"/pirae/education-formation/lyc%c3%a9e-professionnel-don-bosco": {
+"fp": "f40461ee0fb76996",
+"lastmod": "2026-10-14"
+},
+"/pirae/maison-habitat/bs-archi": {
+"fp": "97e38729ec5c6a54",
+"lastmod": "2026-10-14"
+},
+"/pirae/maison-habitat/yohann-florentin-architecte": {
+"fp": "9cce23ba23b5094f",
+"lastmod": "2026-10-14"
+},
+"/pirae/restauration-alimentation/jojo-pizza-pirae": {
+"fp": "729b593e13ca9040",
+"lastmod": "2026-10-14"
+},
+"/pirae/restauration-alimentation/le-royal-tahitien": {
+"fp": "7f2a85e2a7684ab9",
+"lastmod": "2026-10-14"
+},
+"/pirae/restauration-alimentation/magasin-araka": {
+"fp": "0e51e92ab5d7a388",
+"lastmod": "2026-10-14"
+},
+"/pirae/restauration-alimentation/white-restaurant": {
+"fp": "6f13dd497af7cd1f",
+"lastmod": "2026-10-14"
+},
+"/pirae/restauration-alimentation/yowko-pizza-pirae": {
+"fp": "d89b4f3192b3224b",
+"lastmod": "2026-10-14"
+},
+"/pirae/services-aux-entreprises-b2b/cfpa": {
+"fp": "009e672474402a3e",
+"lastmod": "2026-10-14"
+},
+"/pirae/vie-publique-communaute/croix-rouge-fran%c3%a7aise-d%c3%a9l%c3%a9gation-de-polyn%c3%a9sie": {
+"fp": "217f6383e4b92e57",
+"lastmod": "2026-10-14"
+},
+"/pizzeria": {
+"fp": "f6cbc2bfb14b7057",
+"lastmod": "2026-10-14"
+},
+"/prestataires-evenementiels": {
+"fp": "fc6f9a07dc0e10d3",
+"lastmod": "2026-10-14"
+},
+"/punaauia/activites-loisirs/complexe-sportif-a-s-phenix": {
+"fp": "0215643f8681f3d0",
+"lastmod": "2026-10-14"
+},
+"/punaauia/activites-loisirs/eleuthera-plongee-tahiti": {
+"fp": "515b3ba44ed5e42f",
+"lastmod": "2026-10-14"
+},
+"/punaauia/activites-loisirs/musee-de-tahiti-et-des-iles": {
+"fp": "adddd701e7fec519",
+"lastmod": "2026-10-14"
+},
+"/punaauia/beaute-bien-etre/camille-albane-tahiti": {
+"fp": "d4258cc245653a36",
+"lastmod": "2026-10-14"
+},
+"/punaauia/education-formation/auto-ecole-tamanu": {
+"fp": "3248454f3994b4df",
+"lastmod": "2026-10-14"
+},
+"/punaauia/education-formation/coll%c3%a8ge-de-punaauia": {
+"fp": "e5a6656f04097460",
+"lastmod": "2026-10-14"
+},
+"/punaauia/education-formation/cr%c3%a8che-garderie-cagouline": {
+"fp": "73c21d8c07dc124b",
+"lastmod": "2026-10-14"
+},
+"/punaauia/education-formation/la-maison-de-l-enfance": {
+"fp": "b945be5e2916757b",
+"lastmod": "2026-10-14"
+},
+"/punaauia/education-formation/les-fripouilles": {
+"fp": "0ce0caf3f0659b5b",
+"lastmod": "2026-10-14"
+},
+"/punaauia/education-formation/tahiti-international-school": {
+"fp": "8c3c92ad379e7cc4",
+"lastmod": "2026-10-14"
+},
+"/punaauia/education-formation/universit%c3%a9-de-la-polyn%c3%a9sie-fran%c3%a7aise-upf-formation-continue": {
+"fp": "fa1fa284a5553f50",
+"lastmod": "2026-10-14"
+},
+"/punaauia/evenements/alikaphoto": {
+"fp": "fb51e473ef6952ca",
+"lastmod": "2026-10-14"
+},
+"/punaauia/evenements/camille-albane-tahiti": {
+"fp": "a2598f3dc8cb5ecc",
+"lastmod": "2026-10-14"
+},
+"/punaauia/evenements/flor-sens": {
+"fp": "56ec9efcfbff91b7",
+"lastmod": "2026-10-14"
+},
+"/punaauia/evenements/tahiti-connect-dj-musiciens": {
+"fp": "8415877bf3b102d5",
+"lastmod": "2026-10-14"
+},
+"/punaauia/evenements/villa-fa-ati-luxury-event": {
+"fp": "cd50b0fc9ac40a75",
+"lastmod": "2026-10-14"
+},
+"/punaauia/maison-habitat/egs-electricite": {
+"fp": "a47876c0bd774456",
+"lastmod": "2026-10-14"
+},
+"/punaauia/maison-habitat/papa-bricole-24-24": {
+"fp": "9691424c4700173d",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/akua": {
+"fp": "14935ae8b8302995",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/blue-banana": {
+"fp": "28fa4960ebe1eab2",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/chef-a-domicile-tahiti": {
+"fp": "07036273878a052b",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/chez-remy-punaauia": {
+"fp": "066ce3ff736b715c",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/fare-des-d%c3%a9lices": {
+"fp": "8e270e2f7efca514",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/l-epicerie-tahiti": {
+"fp": "66b3c3e8b9ae5efb",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/l-instant-present": {
+"fp": "ebaf067b0cafb32f",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/la-vie-en-bio": {
+"fp": "48206b0ebc4994bd",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/le-crepuscule": {
+"fp": "d70b985cfdccd1e3",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/le-gout-the": {
+"fp": "fc87d4d27ec47160",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/le-red-restaurant": {
+"fp": "fd592c52007847d1",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/noix-de-coco-by-teva": {
+"fp": "d3f66c572d0a3575",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/poke-bar-ii": {
+"fp": "02d6bc3ab7a8b70e",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/roulotte-chez-anita": {
+"fp": "0c9a6674e23b4842",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/tahiti-la-plage": {
+"fp": "6531fd6150976acc",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/westcoast-diner": {
+"fp": "507640963a821b19",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/yellowfin": {
+"fp": "16b462689148598f",
+"lastmod": "2026-10-14"
+},
+"/punaauia/restauration-alimentation/yowko-pizza-punaauia": {
+"fp": "4749c8bc6d5bda02",
+"lastmod": "2026-10-14"
+},
+"/punaauia/sante-medecine/dr-jean-pierre-basse": {
+"fp": "191febc4f837157a",
+"lastmod": "2026-10-14"
+},
+"/punaauia/sante-medecine/dr-sebastien-blin": {
+"fp": "5feaf67d7691150b",
+"lastmod": "2026-10-14"
+},
+"/punaauia/sante-medecine/dr-sirin-demirtas": {
+"fp": "13f70eca9def7a91",
+"lastmod": "2026-10-14"
+},
+"/punaauia/sante-medecine/laboratoire-de-tamanu-paofai": {
+"fp": "5b04c6f936a90710",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/alikaphoto": {
+"fp": "977f2f44e6b05021",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/paulina-cadoret-photography-film": {
+"fp": "540fcc69cff9472a",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/poly-diesel": {
+"fp": "89d27ab9e1e3fbdd",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/skyfilm-tahiti": {
+"fp": "1de893fe802c0622",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/sogequip": {
+"fp": "4e714fceb5aa018d",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/sopadep-industrie": {
+"fp": "09924c5435b7d5b2",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/stp-multipress": {
+"fp": "c93c9654d54f815a",
+"lastmod": "2026-10-14"
+},
+"/punaauia/services-aux-entreprises-b2b/tahiti-demenage-tout": {
+"fp": "fbeb07eefc779c8b",
+"lastmod": "2026-10-14"
+},
+"/punaauia/shopping-artisanat/decathlon-punaauia": {
+"fp": "98354be366c8284b",
+"lastmod": "2026-10-14"
+},
+"/punaauia/shopping-artisanat/olympians-sport-tamanu": {
+"fp": "43e751878c1188f6",
+"lastmod": "2026-10-14"
+},
+"/punaauia/transport-vehicules/drive-tahiti": {
+"fp": "e0b4c958cccbcb41",
+"lastmod": "2026-10-14"
+},
+"/punaauia/transport-vehicules/tahiti-private-services": {
+"fp": "35362e16ee3a81cc",
+"lastmod": "2026-10-14"
+},
+"/punaauia/vie-publique-communaute/cercle-d-aviron-polyn%c3%a9sien-marara": {
+"fp": "dfe35d221921f7b7",
+"lastmod": "2026-10-14"
+},
+"/punaauia/vie-publique-communaute/f%c3%a9d%c3%a9ration-tahitienne-de-cyclisme": {
+"fp": "4b5afeb2b851df31",
+"lastmod": "2026-10-14"
+},
+"/punaauia/vie-publique-communaute/mairie-de-punaauia": {
+"fp": "9160a215112db130",
+"lastmod": "2026-10-14"
+},
+"/punaauia/vie-publique-communaute/punaauia-va-a": {
+"fp": "15b299b3d588a279",
+"lastmod": "2026-10-14"
+},
+"/raiatea/hebergement-sejour/opoa-beach-hotel": {
+"fp": "2fe16a5bd3c49645",
+"lastmod": "2026-10-14"
+},
+"/raiatea/hebergement-sejour/raiatea-lodge-hotel": {
+"fp": "9a08f4529ca628ce",
+"lastmod": "2026-10-14"
+},
+"/raiatea/transport-vehicules/raiatea-marine": {
+"fp": "c6d1470a4829f749",
+"lastmod": "2026-10-14"
+},
+"/rangiroa/activites-loisirs/rangiroa-diving-center": {
+"fp": "eed5aa16197e0a43",
+"lastmod": "2026-10-14"
+},
+"/rangiroa/activites-loisirs/the-6-passengers": {
+"fp": "cd6d6a1d2c937ae6",
+"lastmod": "2026-10-14"
+},
+"/rangiroa/hebergement-sejour/hotel-kia-ora-resort-spa": {
+"fp": "8829a1a6ed84557b",
+"lastmod": "2026-10-14"
+},
+"/recrutement-interim": {
+"fp": "cd371c60297ed87a",
+"lastmod": "2026-10-14"
+},
+"/restaurants": {
+"fp": "278198296f19196f",
+"lastmod": "2026-10-14"
+},
+"/restauration-alimentation": {
+"fp": "a6aa181810f731b1",
+"lastmod": "2026-10-14"
+},
+"/roulottes-snacks": {
+"fp": "fadff1055a299c44",
+"lastmod": "2026-10-14"
+},
+"/salles-de-sport-fitness": {
+"fp": "88904657fff10cfd",
+"lastmod": "2026-10-14"
+},
+"/salons-de-coiffure": {
+"fp": "2d171b1a08cf117d",
+"lastmod": "2026-10-14"
+},
+"/sante-medecine": {
+"fp": "1cc7814226ecb328",
+"lastmod": "2026-10-14"
+},
+"/securite-gardiennage": {
+"fp": "a4c40a120df57ab5",
+"lastmod": "2026-10-14"
+},
+"/services-aux-entreprises-b2b": {
+"fp": "6494a2eb92626d8e",
+"lastmod": "2026-10-14"
+},
+"/services-pour-la-maison": {
+"fp": "07534a77042f2c00",
+"lastmod": "2026-10-14"
+},
+"/services-publics-administration": {
+"fp": "4eab9e53aa2e27b1",
+"lastmod": "2026-10-14"
+},
+"/shopping-artisanat": {
+"fp": "cce58bac9ee04bb3",
+"lastmod": "2026-10-14"
+},
+"/sports-fitness": {
+"fp": "47e97bd85adddc72",
+"lastmod": "2026-10-14"
+},
+"/tahaa/hebergement-sejour/le-taha-a-by-pearl-resorts": {
+"fp": "db373fc52a51bdbb",
+"lastmod": "2026-10-14"
+},
+"/tahiti": {
+"fp": "deb55c6cf63a5fb5",
+"lastmod": "2026-10-14"
+},
+"/tahiti-moorea/shopping-artisanat/papaia-tahiti": {
+"fp": "b46382fdff6bf389",
+"lastmod": "2026-10-14"
+},
+"/tahiti-moorea/shopping-artisanat/tahiti-flowers-by-teanareva": {
+"fp": "c85ed29790f9f96c",
+"lastmod": "2026-10-14"
+},
+"/tahiti/activites-loisirs/iaorana-tahiti-expeditions": {
+"fp": "ad0307a4f938ce52",
+"lastmod": "2026-10-14"
+},
+"/tahiti/activites-loisirs/tahitian-odyssey": {
+"fp": "c995df447971a2b6",
+"lastmod": "2026-10-14"
+},
+"/tahiti/activites-loisirs/upa-upa-tahiti": {
+"fp": "cf5f196211875aea",
+"lastmod": "2026-10-14"
+},
+"/tahiti/education-formation/speak-tahiti-paraparau-tahiti": {
+"fp": "cdecf325f2c24768",
+"lastmod": "2026-10-14"
+},
+"/tahiti/education-formation/superprof-polyn%c3%a9sie": {
+"fp": "140b7d6905228810",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/alexandre-djanbaz": {
+"fp": "e4a5989c8a5b132f",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/chef-%c3%a0-domicile-tahiti-christian-leloup": {
+"fp": "1ee06eccf02fc9f1",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/dj-harmelo": {
+"fp": "a56867f0add98897",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/dj-track-mix": {
+"fp": "edbb0846c9603047",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/helene-havard-photography": {
+"fp": "cf2cbc776d4f67aa",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/here-chef-%c3%a0-domicile-marlon-finkel": {
+"fp": "aef0e859d2176473",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/lily-tahiti": {
+"fp": "b1cb01686095b0ec",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/mad-events": {
+"fp": "63fd6b8560a4d17c",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/meryl-rouger-make-up-artist": {
+"fp": "e09a786fd5488982",
+"lastmod": "2026-10-14"
+},
+"/tahiti/evenements/orohena-sons": {
+"fp": "c83b3f4d0e5e73e9",
+"lastmod": "2026-10-14"
+},
+"/tahiti/hebergement-sejour/fare-suisse-tahiti-guesthouse": {
+"fp": "eefce38b1f51f615",
+"lastmod": "2026-10-14"
+},
+"/tahiti/hebergement-sejour/hilton-hotel-tahiti": {
+"fp": "29e4fdb419bc56d2",
+"lastmod": "2026-10-14"
+},
+"/tahiti/hebergement-sejour/intercontinental-tahiti-resort-spa": {
+"fp": "7a731adade85ceb5",
+"lastmod": "2026-10-14"
+},
+"/tahiti/hebergement-sejour/le-tahiti-by-pearl-resorts": {
+"fp": "5a50c655ea65a6fc",
+"lastmod": "2026-10-14"
+},
+"/tahiti/hebergement-sejour/mahana-lodge-hostel-backpacker": {
+"fp": "88cebf098279327d",
+"lastmod": "2026-10-14"
+},
+"/tahiti/hebergement-sejour/te-moana-tahiti-resort": {
+"fp": "4726e9d93faa0016",
+"lastmod": "2026-10-14"
+},
+"/tahiti/hebergement-sejour/vanira-lodge": {
+"fp": "81a0c9f596e002ef",
+"lastmod": "2026-10-14"
+},
+"/tahiti/restauration-alimentation/vini-vini-snacking": {
+"fp": "28f1ee2ac4337abc",
+"lastmod": "2026-10-14"
+},
+"/tahiti/sante-medecine/alexandra-segui-naturopathe": {
+"fp": "a6205cc7204a352f",
+"lastmod": "2026-10-14"
+},
+"/tahiti/services-aux-entreprises-b2b/crea-passion": {
+"fp": "6e8bf929926d7cfe",
+"lastmod": "2026-10-14"
+},
+"/tahiti/services-aux-entreprises-b2b/novacom-tahiti": {
+"fp": "594ee408bc5e7aab",
+"lastmod": "2026-10-14"
+},
+"/tahiti/services-aux-entreprises-b2b/pitaya": {
+"fp": "b4f1f45937fab7ab",
+"lastmod": "2026-10-14"
+},
+"/tahiti/services-aux-entreprises-b2b/prox-i": {
+"fp": "5e696ef8852525e0",
+"lastmod": "2026-10-14"
+},
+"/tahiti/services-aux-entreprises-b2b/solis-polyn%c3%a9sie": {
+"fp": "93cec1767d5648df",
+"lastmod": "2026-10-14"
+},
+"/tahiti/services-aux-entreprises-b2b/tahiti-m%c3%a9nager": {
+"fp": "437d0cb282cff6ee",
+"lastmod": "2026-10-14"
+},
+"/tahiti/shopping-artisanat/hei-poa": {
+"fp": "ca81cfd733b24f59",
+"lastmod": "2026-10-14"
+},
+"/tahiti/shopping-artisanat/mihiarii-creation": {
+"fp": "983d34306b529a1f",
+"lastmod": "2026-10-14"
+},
+"/tahiti/transport-vehicules/ceramic-pro-tahiti": {
+"fp": "09e2bb714458fcf9",
+"lastmod": "2026-10-14"
+},
+"/tahiti/transport-vehicules/drom-appro-express": {
+"fp": "a91cc31f5d3fc887",
+"lastmod": "2026-10-14"
+},
+"/taiarapu-est/restauration-alimentation/le-manoa": {
+"fp": "38a1f57675e1d7e8",
+"lastmod": "2026-10-14"
+},
+"/taiarapu-ouest/restauration-alimentation/la-plage-de-maui": {
+"fp": "f1a5a43d66e942aa",
+"lastmod": "2026-10-14"
+},
+"/taiohae/education-formation/coll%c3%a8ge-de-taiohae": {
+"fp": "131c058029d9b1d8",
+"lastmod": "2026-10-14"
+},
+"/taputapuatea/activites-loisirs/manaventura-tahiti": {
+"fp": "b9484c1fbf4b428d",
+"lastmod": "2026-10-14"
+},
+"/taravao/education-formation/auto-ecole-de-la-presqu-%c3%aele": {
+"fp": "48411d8b613c0874",
+"lastmod": "2026-10-14"
+},
+"/taravao/education-formation/lyc%c3%a9e-polyvalent-taiarapu-nui": {
+"fp": "cc50c4e634f69e0a",
+"lastmod": "2026-10-14"
+},
+"/taravao/education-formation/ta-iara-formation": {
+"fp": "d5fbce39160da7c1",
+"lastmod": "2026-10-14"
+},
+"/taravao/maison-habitat/frh-construction": {
+"fp": "9ffaf1027728b69f",
+"lastmod": "2026-10-14"
+},
+"/taravao/services-aux-entreprises-b2b/tahiti-pixel": {
+"fp": "e8c96e7da810844e",
+"lastmod": "2026-10-14"
+},
+"/taravao/shopping-artisanat/ace-taravao": {
+"fp": "10941cc45948a6f5",
+"lastmod": "2026-10-14"
+},
+"/taravao/shopping-artisanat/tahiti-oil-factory": {
+"fp": "7d1ee04501af2385",
+"lastmod": "2026-10-14"
+},
+"/taravao/transport-vehicules/triangle-auto": {
+"fp": "7153043ac690a51d",
+"lastmod": "2026-10-14"
+},
+"/taravao/vie-publique-communaute/soci%c3%a9t%c3%a9-d-ornithologie-de-polyn%c3%a9sie-sop-manu": {
+"fp": "0a6c6195e3a10c95",
+"lastmod": "2026-10-14"
+},
+"/tatouage-piercing": {
+"fp": "207f22fcd7f57ef8",
+"lastmod": "2026-10-14"
+},
+"/taunoa-motu-uta/services-aux-entreprises-b2b/tls-tahiti-logistique-services": {
+"fp": "d815277d8c873e51",
+"lastmod": "2026-10-14"
+},
+"/taxis-vtc": {
+"fp": "c83ebbf05cb8761b",
+"lastmod": "2026-10-14"
+},
+"/teavaro/beaute-bien-etre/le-jardin-spa-beauty": {
+"fp": "9d4ce48b3634e605",
+"lastmod": "2026-10-14"
+},
+"/tetiaroa/beaute-bien-etre/varua-te-ora-polynesian-spa": {
+"fp": "76d2b2089e903ce8",
+"lastmod": "2026-10-14"
+},
+"/teva-i-uta/restauration-alimentation/le-nuutea": {
+"fp": "dbb99cee62402940",
+"lastmod": "2026-10-14"
+},
+"/teva-i-uta/restauration-alimentation/mataiea-nui": {
+"fp": "0070197d26c8ee47",
+"lastmod": "2026-10-14"
+},
+"/teva-i-uta/restauration-alimentation/snack-mairipehe": {
+"fp": "4abd1b6327b3e93c",
+"lastmod": "2026-10-14"
+},
+"/teva-i-uta/restauration-alimentation/snack-resto-marutea": {
+"fp": "14593d0888344401",
+"lastmod": "2026-10-14"
+},
+"/tiahura-haapiti/shopping-artisanat/creativ-moorea": {
+"fp": "dbf089d9843daccb",
+"lastmod": "2026-10-14"
+},
+"/tiahura/beaute-bien-etre/moo-janzu": {
+"fp": "85a0adbccbd947b4",
+"lastmod": "2026-10-14"
+},
+"/toahotu/beaute-bien-etre/west-coast-barber": {
+"fp": "a44f88da0e43c40b",
+"lastmod": "2026-10-14"
+},
+"/traduction-interpretariat": {
+"fp": "003aee5c6429e1ac",
+"lastmod": "2026-10-14"
+},
+"/traiteurs-evenementiel": {
+"fp": "9202bb88d08f276d",
+"lastmod": "2026-10-14"
+},
+"/transitaires": {
+"fp": "1d0b1475201d8176",
+"lastmod": "2026-10-14"
+},
+"/transport-vehicules": {
+"fp": "dcb3d882bf921d96",
+"lastmod": "2026-10-14"
+},
+"/transports-aeriens": {
+"fp": "e6044766012c617e",
+"lastmod": "2026-10-14"
+},
+"/transports-en-commun": {
+"fp": "2159f17decd5a654",
+"lastmod": "2026-10-14"
+},
+"/ua-pou/shopping-artisanat/tony-tereino-et-son-fils": {
+"fp": "f64fab4909f9ad60",
+"lastmod": "2026-10-14"
+},
+"/uturoa/activites-loisirs/destination-lagon": {
+"fp": "db9562d9627b3ed4",
+"lastmod": "2026-10-14"
+},
+"/uturoa/activites-loisirs/the-moorings": {
+"fp": "65727e6715aceae4",
+"lastmod": "2026-10-14"
+},
+"/uturoa/education-formation/c%c5%93ur-d-enfant": {
+"fp": "0d06e827159e3c7f",
+"lastmod": "2026-10-14"
+},
+"/uturoa/restauration-alimentation/brasserie-maraamu": {
+"fp": "79e4ea07ae0540ef",
+"lastmod": "2026-10-14"
+},
+"/uturoa/restauration-alimentation/le-napoli": {
+"fp": "9825504daee8361f",
+"lastmod": "2026-10-14"
+},
+"/uturoa/restauration-alimentation/snack-tonoi": {
+"fp": "88d2b7fee64de858",
+"lastmod": "2026-10-14"
+},
+"/uturoa/restauration-alimentation/villa-ixora": {
+"fp": "e73e8693aeef91bb",
+"lastmod": "2026-10-14"
+},
+"/vaitape/activites-loisirs/h2o-bora-bora": {
+"fp": "767c67fcc3d92e9c",
+"lastmod": "2026-10-14"
+},
+"/vaitape/activites-loisirs/lagoon-service-bora-bora": {
+"fp": "c5f9441c3d7008c5",
+"lastmod": "2026-10-14"
+},
+"/vaitape/education-formation/poe-vai": {
+"fp": "dba66f270bfded5d",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/aloe-cafe": {
+"fp": "0362c100a54957a5",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/bora-bora-yacht-club": {
+"fp": "e63edddb58bcb427",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/la-patisserie-francaise-by-st-james": {
+"fp": "5ca158ae1d04957c",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/le-panda-d-or": {
+"fp": "3beb12263c2c1bdf",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/magasin-matira": {
+"fp": "3aed69dff8eb1928",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/roulotte-matira": {
+"fp": "5fdae0701a1329e5",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/saint-james-bora-bora": {
+"fp": "073b60c6f0478ea7",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/snack-matira": {
+"fp": "a6b62530deaca784",
+"lastmod": "2026-10-14"
+},
+"/vaitape/restauration-alimentation/super-u-to-a-amok": {
+"fp": "c07f06f6850f5420",
+"lastmod": "2026-10-14"
+},
+"/vaitape/transport-vehicules/garage-bora-bora": {
+"fp": "5d0c5db559129f5a",
+"lastmod": "2026-10-14"
+},
+"/vaitape/vie-publique-communaute/mairie-de-bora-bora": {
+"fp": "45b4a96cf4063827",
+"lastmod": "2026-10-14"
+},
+"/vehicules": {
+"fp": "f32095691b8d1966",
+"lastmod": "2026-10-14"
+},
+"/vehicules/ford-kuga-277-p": {
+"fp": "ef52c0f5ef891eab",
+"lastmod": "2026-10-14"
+},
+"/vehicules/ford-ranger": {
+"fp": "c9e9d5b0270988fd",
+"lastmod": "2026-10-14"
+},
+"/veterinaires-soins-animaliers": {
+"fp": "da57a3a8efca0cc4",
+"lastmod": "2026-10-14"
+},
+"/vie-publique-communaute": {
+"fp": "c466039686766946",
+"lastmod": "2026-10-14"
+},
+"/windward-islands": {
+"fp": "4aafa15b820fdbb9",
+"lastmod": "2026-10-14"
+},
+"/yoga-pilates": {
+"fp": "e3627f50159761ba",
+"lastmod": "2026-10-14"
+}
+}
