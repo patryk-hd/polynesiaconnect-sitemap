@@ -43,6 +43,7 @@ SECTIONS = ["/", "/annonces", "/immobilier-offres", "/evenements-en-cours", "/em
 
 # sitemap file per page type (first matching rule wins)
 TYPES = [
+    ("categories-communes", re.compile(r"^/(?!(?:annonces|immobilier-offres|evenements-en-cours|emploi|produits|coupons|blog|articles|photo-albums|videos|about|vehicules)/)[^/]+/[^/]+$")),
     ("evenements", re.compile(r"^/evenements-en-cours/.+")),
     ("emploi", re.compile(r"^/emploi/.+")),
     ("annonces", re.compile(r"^/annonces/.+")),
@@ -114,9 +115,12 @@ def is_hub(path):
     return len(segments(path)) <= 1
 
 
+CATEGORY_PAGES = set()  # /commune/catégorie and /région/catégorie pages linked from business profiles
+
+
 def worth_visiting(path):
     seg = segments(path)
-    if len(seg) <= 1:
+    if len(seg) <= 1 or path in CATEGORY_PAGES:
         return True
     if seg[0] in SECTION_ROOTS:
         return len(seg) == 2
@@ -149,7 +153,7 @@ def listed(path, info):
         return False
     if len(seg) == 1 and info["member"]:  # personal accounts without commune/category (private individuals)
         return False
-    return len(seg) <= 1 or seg[0] in SECTION_ROOTS or info["profile"]
+    return len(seg) <= 1 or seg[0] in SECTION_ROOTS or info["profile"] or path in CATEGORY_PAGES
 
 
 def crawl(seeds):
@@ -174,6 +178,12 @@ def crawl(seeds):
                 if is_hub(path):  # explore categories / sections, including their pagination
                     for href in links:
                         push(norm(href, path, keep_page=True))
+                elif info["profile"]:  # "Recherches similaires": the category-in-a-city pages of this business
+                    for href in links:
+                        item = norm(href, path)
+                        if item and len(segments(item[0])) == 2 and segments(item[0])[0] not in SECTION_ROOTS:
+                            CATEGORY_PAGES.add(item[0])
+                            push(item)
                 if query:  # a ?page=N view: only used to discover links
                     continue
                 final_path = (norm(final.path, "/") or (path, ""))[0]
