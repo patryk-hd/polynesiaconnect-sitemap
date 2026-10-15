@@ -9,6 +9,7 @@ Addresses are written exactly as the site links them (accents percent-encoded on
 
 lastmod = the day a page's title / description / main heading last changed (state.json keeps
 a fingerprint per page), so search engines can trust it.
+first = the day a page first appeared (state.json), read by the weekly Facebook recap.
 Seeds: the home page, the section pages, the pages already in state.json and extra-seeds.txt.
 """
 import datetime as dt
@@ -209,7 +210,10 @@ def main():
     new_state = {}
     for path, fp in pages.items():
         old = state.get(path)
-        new_state[path] = {"fp": fp, "lastmod": old["lastmod"] if old and old["fp"] == fp else TODAY}
+        new_state[path] = {"fp": fp, "lastmod": old["lastmod"] if old and old["fp"] == fp else TODAY,
+                           # first = the day the page was first found (weekly Facebook recap: "new this week");
+                           # pages from before this field existed keep their oldest known date
+                           "first": (old.get("first") or old["lastmod"]) if old else TODAY}
     added = sorted(set(new_state) - set(state))
     removed = sorted(set(state) - set(new_state))
     changed = sorted(p for p in new_state if p in state and state[p]["fp"] != new_state[p]["fp"])
