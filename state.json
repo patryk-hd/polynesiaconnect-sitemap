@@ -389,6 +389,31 @@
 "fp": "ba12894d6ff589a5",
 "lastmod": "2026-10-14"
 },
+"/blog": {
+"first": "2026-10-19",
+"fp": "cfe52139cefd60c2",
+"lastmod": "2026-10-19"
+},
+"/blog/grands-rendez-vous-du-fenua-2026-2027": {
+"first": "2026-10-19",
+"fp": "da994c2fa2b449b7",
+"lastmod": "2026-10-19"
+},
+"/blog/polynesia-connect-mode-d-emploi": {
+"first": "2026-10-19",
+"fp": "9a140435dcddf077",
+"lastmod": "2026-10-19"
+},
+"/blog/trouver-un-emploi-en-polynesie-offres-du-sefi": {
+"first": "2026-10-19",
+"fp": "75d5e184dae667e4",
+"lastmod": "2026-10-19"
+},
+"/blog/vendre-sa-voiture-a-tahiti-8-conseils": {
+"first": "2026-10-19",
+"fp": "181520f616076035",
+"lastmod": "2026-10-19"
+},
 "/bora-bora/activites-loisirs": {
 "first": "2026-10-14",
 "fp": "0da26458023264ea",
@@ -699,6 +724,21 @@
 "fp": "d6d961588367f8a4",
 "lastmod": "2026-10-14"
 },
+"/emploi/acheteur-public-acheteuse-publique-arue-834225": {
+"first": "2026-10-19",
+"fp": "96e9acf58e331a0c",
+"lastmod": "2026-10-19"
+},
+"/emploi/agent-agente-de-location-de-vehicules-punaauia-834214": {
+"first": "2026-10-19",
+"fp": "1c893cf934665e97",
+"lastmod": "2026-10-19"
+},
+"/emploi/agent-agente-de-maintenance-des-batiments-vaitape-834231": {
+"first": "2026-10-19",
+"fp": "c0207632874016c3",
+"lastmod": "2026-10-19"
+},
 "/emploi/agent-agente-de-maintenance-industrielle-papara-834015": {
 "first": "2026-10-15",
 "fp": "35bf29f3f62d998d",
@@ -711,18 +751,28 @@
 },
 "/emploi/agent-agente-de-reservation-en-hotellerie-anau-834071": {
 "first": "2026-10-15",
-"fp": "7e472c9847e0ed75",
-"lastmod": "2026-10-15"
+"fp": "ad84d35bc3c508a4",
+"lastmod": "2026-10-19"
 },
 "/emploi/agent-agente-de-securite-papetoai-833968": {
 "first": "2026-10-15",
 "fp": "86a5553f72767b21",
 "lastmod": "2026-10-15"
 },
+"/emploi/agent-agente-descale-maritime-vaitape-834201": {
+"first": "2026-10-19",
+"fp": "84434b7e4a995375",
+"lastmod": "2026-10-19"
+},
 "/emploi/agent-polyvalent-agente-polyvalente-dhotellerie-arue-833946": {
 "first": "2026-10-15",
 "fp": "515df93300641c48",
 "lastmod": "2026-10-15"
+},
+"/emploi/aide-boulanger-aide-boulangere-pirae-834224": {
+"first": "2026-10-19",
+"fp": "1c7438e872a7ea9d",
+"lastmod": "2026-10-19"
 },
 "/emploi/aide-familial-familiale-papara-833953": {
 "first": "2026-10-15",
@@ -731,13 +781,23 @@
 },
 "/emploi/assistant-administratif-assistante-administrative-et-comptable-papeete-834043": {
 "first": "2026-10-15",
-"fp": "7b0a866a2703bfa0",
-"lastmod": "2026-10-15"
+"fp": "62ecf86f91f115d3",
+"lastmod": "2026-10-19"
+},
+"/emploi/assistant-administratif-assistante-administrative-papeete-834228": {
+"first": "2026-10-19",
+"fp": "62632795f2d5b375",
+"lastmod": "2026-10-19"
 },
 "/emploi/assistant-assistante-comptable-confirme-papeete-834001": {
 "first": "2026-10-15",
 "fp": "889243b8e54b8be2",
 "lastmod": "2026-10-15"
+},
+"/emploi/assistant-assistante-comptable-papeete-834199": {
+"first": "2026-10-19",
+"fp": "0f9fcbf0e7967d6c",
+"lastmod": "2026-10-19"
 },
 "/emploi/assistant-assistante-de-direction-papeete-834006": {
 "first": "2026-10-15",
@@ -749,10 +809,20 @@
 "fp": "75ef646ec6512e24",
 "lastmod": "2026-10-15"
 },
+"/emploi/assistant-assistante-dexploitation-en-securite-privee-papeete-834178": {
+"first": "2026-10-19",
+"fp": "857b280330b157dc",
+"lastmod": "2026-10-19"
+},
 "/emploi/assistant-assistante-qualite-securite-et-environnement-pirae-834092": {
 "first": "2026-10-15",
 "fp": "296db55f0906bff7",
 "lastmod": "2026-10-15"
+},
+"/emploi/assistant-assistante-qualite-securite-et-environnement-pirae-834123": {
+"first": "2026-10-19",
+"fp": "296db55f0906bff7",
+"lastmod": "2026-10-19"
 },
 "/emploi/assistant-assistante-responsable-dentrepot-papeete-834037": {
 "first": "2026-10-15",
@@ -769,10 +839,20 @@
 "fp": "a6b9bdb6ef23a70e",
 "lastmod": "2026-10-15"
 },
+"/emploi/attache-attachee-de-direction-papeete-834118": {
+"first": "2026-10-19",
+"fp": "1e6951ba5afa2eee",
+"lastmod": "2026-10-19"
+},
+"/emploi/attache-technico-commercial-attachee-technico-commerciale-en-laboratoire-arue-83": {
+"first": "2026-10-19",
+"fp": "6653d49e3f726c32",
+"lastmod": "2026-10-19"
+},
 "/emploi/barman-barmaid-anau-834074": {
 "first": "2026-10-15",
-"fp": "4d6442052ec59320",
-"lastmod": "2026-10-15"
+"fp": "50b1bc81d6a26f29",
+"lastmod": "2026-10-19"
 },
 "/emploi/barman-barmaid-faaa-834095": {
 "first": "2026-10-15",
@@ -783,6 +863,11 @@
 "first": "2026-10-15",
 "fp": "8a96c481f050b45c",
 "lastmod": "2026-10-15"
+},
+"/emploi/bucheron-bucheronne-papeete-834184": {
+"first": "2026-10-19",
+"fp": "f38ea74df4079457",
+"lastmod": "2026-10-19"
 },
 "/emploi/charge-chargee-de-clientele-en-assurance-iard-papeete-834079": {
 "first": "2026-10-15",
@@ -819,6 +904,11 @@
 "fp": "22ce75666edb9df4",
 "lastmod": "2026-10-15"
 },
+"/emploi/chauffeur-chauffeuse-de-transport-touristique-faaa-834121": {
+"first": "2026-10-19",
+"fp": "9531769028b090e3",
+"lastmod": "2026-10-19"
+},
 "/emploi/chauffeur-chauffeuse-poids-lourd-papara-834061": {
 "first": "2026-10-15",
 "fp": "9d22d39978dfe01d",
@@ -839,10 +929,20 @@
 "fp": "05ee97a56609bd4c",
 "lastmod": "2026-10-15"
 },
+"/emploi/chef-comptable-faaa-834127": {
+"first": "2026-10-19",
+"fp": "aaf352511d6e24f4",
+"lastmod": "2026-10-19"
+},
 "/emploi/chef-datelier-poids-lourds-et-engins-papeete-834027": {
 "first": "2026-10-15",
 "fp": "a7ed4b6dc3e37118",
 "lastmod": "2026-10-15"
+},
+"/emploi/chef-de-brigade-de-reception-faaa-834128": {
+"first": "2026-10-19",
+"fp": "05233d5a75805236",
+"lastmod": "2026-10-19"
 },
 "/emploi/chef-de-chantier-btp-faaa-834008": {
 "first": "2026-10-15",
@@ -859,6 +959,16 @@
 "fp": "e08af041a1b9e309",
 "lastmod": "2026-10-15"
 },
+"/emploi/chef-de-partie-traiteur-vaitape-834187": {
+"first": "2026-10-19",
+"fp": "fca92994405f8f22",
+"lastmod": "2026-10-19"
+},
+"/emploi/chef-de-partie-vaitape-834230": {
+"first": "2026-10-19",
+"fp": "efab46ad0a61919a",
+"lastmod": "2026-10-19"
+},
 "/emploi/chef-de-rang-faaa-834096": {
 "first": "2026-10-15",
 "fp": "9f67449465e72167",
@@ -869,15 +979,30 @@
 "fp": "dc09a7285d8b21a4",
 "lastmod": "2026-10-15"
 },
+"/emploi/chef-decloserie-perliere-rikitea-834124": {
+"first": "2026-10-19",
+"fp": "fa615371490ebb5b",
+"lastmod": "2026-10-19"
+},
 "/emploi/chef-patissier-cheffe-patissiere-tetiaroa-833992": {
 "first": "2026-10-15",
 "fp": "a0fa512e14d69c5e",
 "lastmod": "2026-10-15"
 },
+"/emploi/collaborateur-collaboratrice-comptable-papeete-834180": {
+"first": "2026-10-19",
+"fp": "00e4e3db86a8f488",
+"lastmod": "2026-10-19"
+},
 "/emploi/commis-commise-de-bar-anau-834075": {
 "first": "2026-10-15",
-"fp": "fb01c2f56fca463d",
-"lastmod": "2026-10-15"
+"fp": "7a76bba8dfddb091",
+"lastmod": "2026-10-19"
+},
+"/emploi/commis-commise-de-cuisine-en-salle-de-decoupe-papara-834186": {
+"first": "2026-10-19",
+"fp": "475d22cb3eb324a6",
+"lastmod": "2026-10-19"
 },
 "/emploi/commis-commise-de-restaurant-faaa-834098": {
 "first": "2026-10-15",
@@ -889,6 +1014,16 @@
 "fp": "b990611a77e13b90",
 "lastmod": "2026-10-15"
 },
+"/emploi/comptable-fournisseurs-papeete-834185": {
+"first": "2026-10-19",
+"fp": "74467859330fba0f",
+"lastmod": "2026-10-19"
+},
+"/emploi/conseiller-commercial-conseillere-commerciale-en-assurance-papeete-834120": {
+"first": "2026-10-19",
+"fp": "ec456051549e4f70",
+"lastmod": "2026-10-19"
+},
 "/emploi/conseiller-conseillere-clientele-recouvrement-professionnels-papeete-834069": {
 "first": "2026-10-15",
 "fp": "cf45c1eb71f8db2f",
@@ -898,6 +1033,16 @@
 "first": "2026-10-15",
 "fp": "71e47fd208387f2b",
 "lastmod": "2026-10-15"
+},
+"/emploi/cuisinier-cuisiniere-en-cuisine-chinoise-punaauia-834210": {
+"first": "2026-10-19",
+"fp": "aee1e6a3f1f4ba10",
+"lastmod": "2026-10-19"
+},
+"/emploi/cuisinier-cuisiniere-en-cuisine-chinoise-uturoa-834179": {
+"first": "2026-10-19",
+"fp": "6d9308b6a95bdbb7",
+"lastmod": "2026-10-19"
 },
 "/emploi/cuisinier-cuisiniere-punaauia-834029": {
 "first": "2026-10-01",
@@ -921,13 +1066,38 @@
 },
 "/emploi/electricien-electricienne-du-batiment-arue-833997": {
 "first": "2026-10-15",
-"fp": "ad625fdc214f6798",
-"lastmod": "2026-10-15"
+"fp": "609b66cc2a2f7c7a",
+"lastmod": "2026-10-19"
+},
+"/emploi/electricien-electricienne-du-batiment-haapiti-834220": {
+"first": "2026-10-19",
+"fp": "ca17fbff9e254318",
+"lastmod": "2026-10-19"
 },
 "/emploi/electrotechnicien-electrotechnicienne-de-maintenance-nautique-papeete-834026": {
 "first": "2026-10-15",
 "fp": "0b6e86d03a4c637b",
 "lastmod": "2026-10-15"
+},
+"/emploi/employe-polyvalent-employee-polyvalente-en-pension-de-famille-punaauia-834182": {
+"first": "2026-10-19",
+"fp": "19236914f1572d66",
+"lastmod": "2026-10-19"
+},
+"/emploi/gouvernant-gouvernante-a-bord-papeete-834188": {
+"first": "2026-10-19",
+"fp": "217b239421e4321d",
+"lastmod": "2026-10-19"
+},
+"/emploi/gouvernant-gouvernante-detage-punaauia-834063": {
+"first": "2026-10-19",
+"fp": "b5d5839d2d4c8263",
+"lastmod": "2026-10-19"
+},
+"/emploi/graisseur-graisseuse-de-navire-papeete-834189": {
+"first": "2026-10-19",
+"fp": "9537bbb5ed9db5db",
+"lastmod": "2026-10-19"
 },
 "/emploi/greffeur-greffeuse-de-nacres-ahe-834087": {
 "first": "2026-10-15",
@@ -944,15 +1114,30 @@
 "fp": "75a97e15fe69062f",
 "lastmod": "2026-10-15"
 },
+"/emploi/ingenieur-ingenieure-en-installations-solaires-et-stockage-denergie-haapiti-8342": {
+"first": "2026-10-19",
+"fp": "0596f5f9e411012c",
+"lastmod": "2026-10-19"
+},
+"/emploi/installateur-installatrice-en-climatisation-haapiti-834218": {
+"first": "2026-10-19",
+"fp": "4f849d17a40dd5c4",
+"lastmod": "2026-10-19"
+},
 "/emploi/juriste-daide-aux-victimes-papeete-834067": {
 "first": "2026-10-15",
 "fp": "6f52010d8afd4819",
 "lastmod": "2026-10-15"
 },
+"/emploi/macon-maconne-vrd-punaauia-834219": {
+"first": "2026-10-19",
+"fp": "bd13023ed3b56f6f",
+"lastmod": "2026-10-19"
+},
 "/emploi/magasinier-magasiniere-papeete-834085": {
 "first": "2026-10-15",
-"fp": "22f77826e3a7c8f1",
-"lastmod": "2026-10-15"
+"fp": "53271f6fce831618",
+"lastmod": "2026-10-19"
 },
 "/emploi/maitre-maitresse-dhotel-faaa-834097": {
 "first": "2026-10-15",
@@ -994,6 +1179,16 @@
 "fp": "2ff549a60892a5d3",
 "lastmod": "2026-10-15"
 },
+"/emploi/officier-officiere-machine-de-la-marine-marchande-papeete-834190": {
+"first": "2026-10-19",
+"fp": "c8475f45d4c33fa2",
+"lastmod": "2026-10-19"
+},
+"/emploi/operateur-operatrice-dengins-de-chantier-et-de-centrale-a-beton-haapiti-834221": {
+"first": "2026-10-19",
+"fp": "e37e8e4a6a2b724c",
+"lastmod": "2026-10-19"
+},
 "/emploi/orthophoniste-punaauia-834048": {
 "first": "2026-10-15",
 "fp": "11e6fbcb419309bc",
@@ -1004,10 +1199,30 @@
 "fp": "65a1bdb29d5f9fa6",
 "lastmod": "2026-10-15"
 },
+"/emploi/ouvrier-ouvriere-en-perliculture-arutua-834212": {
+"first": "2026-10-19",
+"fp": "0142281453ada710",
+"lastmod": "2026-10-19"
+},
 "/emploi/peintre-en-batiment-punaauia-834080": {
 "first": "2026-10-15",
-"fp": "ef9e7b80275fb9ba",
-"lastmod": "2026-10-15"
+"fp": "16c9f45e48d6f3fb",
+"lastmod": "2026-10-19"
+},
+"/emploi/pilote-de-bateau-capitaine-tetiaroa-834213": {
+"first": "2026-10-19",
+"fp": "791e2ad2d068c1c2",
+"lastmod": "2026-10-19"
+},
+"/emploi/pizzaiolo-pizzaiola-punaauia-834200": {
+"first": "2026-10-19",
+"fp": "d9b8d69361edb940",
+"lastmod": "2026-10-19"
+},
+"/emploi/poseur-poseuse-de-stores-papeete-834209": {
+"first": "2026-10-19",
+"fp": "25e3cefa9ada7db4",
+"lastmod": "2026-10-19"
 },
 "/emploi/receptionnaire-de-marchandises-mahina-833945": {
 "first": "2026-10-15",
@@ -1016,23 +1231,33 @@
 },
 "/emploi/receptionniste-de-nuit-anau-834072": {
 "first": "2026-10-15",
-"fp": "afc3f6b3d5f93d3a",
-"lastmod": "2026-10-15"
+"fp": "ad572abd97dd867a",
+"lastmod": "2026-10-19"
 },
 "/emploi/receptionniste-en-hotellerie-anau-834073": {
 "first": "2026-10-15",
-"fp": "98f702d82a06b27d",
-"lastmod": "2026-10-15"
+"fp": "360bb8fb44e04f35",
+"lastmod": "2026-10-19"
 },
 "/emploi/responsable-de-boutique-papeete-834047": {
 "first": "2026-10-15",
 "fp": "f3a3dba3c394944d",
 "lastmod": "2026-10-15"
 },
+"/emploi/responsable-de-la-securite-des-systemes-dinformation-rssi-papeete-834181": {
+"first": "2026-10-19",
+"fp": "2ec8bd13b269aad9",
+"lastmod": "2026-10-19"
+},
 "/emploi/responsable-des-reservations-arue-833991": {
 "first": "2026-10-15",
 "fp": "48b87ae6b78ea4d2",
 "lastmod": "2026-10-15"
+},
+"/emploi/responsable-dexploitation-en-securite-privee-papeete-834177": {
+"first": "2026-10-19",
+"fp": "3bf8745d7f7e31ae",
+"lastmod": "2026-10-19"
 },
 "/emploi/responsable-du-transport-officiel-papeete-833967": {
 "first": "2026-10-15",
@@ -1049,10 +1274,25 @@
 "fp": "b02375551a863417",
 "lastmod": "2026-10-15"
 },
+"/emploi/secretaire-medical-medicale-arue-834226": {
+"first": "2026-10-19",
+"fp": "cf602bf38d6a12eb",
+"lastmod": "2026-10-19"
+},
+"/emploi/secretaire-polyvalent-polyvalente-en-assurance-papeete-834119": {
+"first": "2026-10-19",
+"fp": "fa07a7a6dec754c5",
+"lastmod": "2026-10-19"
+},
 "/emploi/secretaire-polyvalent-polyvalente-pirae-834076": {
 "first": "2026-10-15",
-"fp": "52e6dc2f497dbc32",
-"lastmod": "2026-10-15"
+"fp": "f472aa19091a1c58",
+"lastmod": "2026-10-19"
+},
+"/emploi/serveur-serveuse-de-restaurant-papeete-834183": {
+"first": "2026-10-19",
+"fp": "4e077bcee83bd3c8",
+"lastmod": "2026-10-19"
 },
 "/emploi/steward-hotesse-de-bord-papeete-833966": {
 "first": "2026-10-15",
@@ -1069,6 +1309,11 @@
 "fp": "fbc252d67fc0b4cf",
 "lastmod": "2026-10-15"
 },
+"/emploi/technicien-technicienne-de-maintenance-industrielle-punaauia-834126": {
+"first": "2026-10-19",
+"fp": "d94de7b9bd08fea7",
+"lastmod": "2026-10-19"
+},
 "/emploi/technicien-technicienne-de-maintenance-informatique-punaauia-834042": {
 "first": "2026-10-15",
 "fp": "97e34c90efd10268",
@@ -1078,6 +1323,16 @@
 "first": "2026-10-15",
 "fp": "60997adcaabfafef",
 "lastmod": "2026-10-15"
+},
+"/emploi/technicien-technicienne-informatique-faaa-834129": {
+"first": "2026-10-19",
+"fp": "0a1df5e64d37922d",
+"lastmod": "2026-10-19"
+},
+"/emploi/technicien-technicienne-reseaux-et-securite-haapiti-834223": {
+"first": "2026-10-19",
+"fp": "1caeb393206344ae",
+"lastmod": "2026-10-19"
 },
 "/emploi/teleconseiller-teleconseillere-faaa-833996": {
 "first": "2026-10-15",
@@ -1091,8 +1346,8 @@
 },
 "/emploi/vendeur-vendeuse-en-jeux-et-beaux-arts-papeete-834090": {
 "first": "2026-10-15",
-"fp": "11397f33a359b323",
-"lastmod": "2026-10-15"
+"fp": "fb92e5173e892197",
+"lastmod": "2026-10-19"
 },
 "/emploi/vendeur-vendeuse-en-optique-papeete-833998": {
 "first": "2026-10-15",
@@ -1146,8 +1401,8 @@
 },
 "/evenements-en-cours/23e-salon-des-australes": {
 "first": "2026-10-01",
-"fp": "6dbd79ead77f8d0f",
-"lastmod": "2026-10-14"
+"fp": "39456f4d783a5570",
+"lastmod": "2026-10-19"
 },
 "/evenements-en-cours/60e-salon-des-marquises": {
 "first": "2026-10-01",
@@ -1301,8 +1556,8 @@
 },
 "/evenements-en-cours/mahana-pae-journee-de-la-tiare-tahiti": {
 "first": "2026-10-01",
-"fp": "9b20da0eb14f439e",
-"lastmod": "2026-10-14"
+"fp": "2a857d1308db9709",
+"lastmod": "2026-10-19"
 },
 "/evenements-en-cours/mana-by-pepena-au-meherio": {
 "first": "2026-10-01",
@@ -1321,8 +1576,8 @@
 },
 "/evenements-en-cours/marche-bio-de-moorea": {
 "first": "2026-10-01",
-"fp": "78a07031764f68b9",
-"lastmod": "2026-10-14"
+"fp": "2762a165c459d43b",
+"lastmod": "2026-10-19"
 },
 "/evenements-en-cours/matarii-i-nia-a-papeete": {
 "first": "2026-10-01",
@@ -1431,8 +1686,8 @@
 },
 "/evenements-en-cours/tahiti-fashion-week-2026": {
 "first": "2026-10-01",
-"fp": "fdcad7d388078260",
-"lastmod": "2026-10-14"
+"fp": "5ab7437ad7f78bc8",
+"lastmod": "2026-10-19"
 },
 "/evenements-en-cours/tahiti-moorea-ultra-trail-2026": {
 "first": "2026-10-01",
@@ -1506,8 +1761,8 @@
 },
 "/evenements-en-cours/xterra-triathlon-moorea-2026": {
 "first": "2026-10-01",
-"fp": "742ae26cf2e81e1f",
-"lastmod": "2026-10-14"
+"fp": "2240917d1cf5ea4b",
+"lastmod": "2026-10-19"
 },
 "/experts-comptables": {
 "first": "2026-10-01",
@@ -2146,8 +2401,8 @@
 },
 "/listing": {
 "first": "2026-10-01",
-"fp": "8d871eb4b3fd4956",
-"lastmod": "2026-10-14"
+"fp": "5cf53996f646758e",
+"lastmod": "2026-10-19"
 },
 "/location-de-vehicules": {
 "first": "2026-10-01",
