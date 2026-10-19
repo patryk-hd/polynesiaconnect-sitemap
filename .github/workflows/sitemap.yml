@@ -40,7 +40,7 @@ jobs:
           SYNC_TOKEN: ${{ secrets.SITEMAP_SYNC_TOKEN }}
         run: |
           sha=$(git rev-parse HEAD)
-          out=$(curl -sS --max-time 120 -A "PolynesiaConnectSitemap/1.0" "https://www.polynesiaconnect.com/pc-sitemap-sync?token=${SYNC_TOKEN}&sha=${sha}")
+          out=$(curl -sS --max-time 170 -A "PolynesiaConnectSitemap/1.0" "https://www.polynesiaconnect.com/pc-sitemap-sync?token=${SYNC_TOKEN}&sha=${sha}")
           echo "$out" | grep -o "PC sitemap sync: [^<]*" || { echo "sync widget did not answer"; exit 1; }
           # success only if every file was written (e.g. "7/7 files written")
           re='sync: ([0-9]+)/([0-9]+) files written'
@@ -48,7 +48,8 @@ jobs:
           exit 1
       - name: Notify Bing (IndexNow)
         # new and changed pages of this run; the key is served by the site at /indexnow-key
-        if: ${{ vars.INDEXNOW_KEY != '' }}
+        # runs even when the copy step failed: Bing reads the pages themselves, not our sitemap copy
+        if: ${{ !cancelled() && vars.INDEXNOW_KEY != '' }}
         env:
           KEY: ${{ vars.INDEXNOW_KEY }}
         run: |
