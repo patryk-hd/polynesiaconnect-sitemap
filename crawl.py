@@ -23,6 +23,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import gzip
 from concurrent.futures import ThreadPoolExecutor
 
 HERE = pathlib.Path(__file__).resolve().parent
@@ -69,13 +70,17 @@ EMPTY = re.compile(r"aucun r(é|&eacute;)sultat|no results found", re.I)
 
 def fetch(path, query=""):
     url = BASE + path + (f"?{query}" if query else "")
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+    # compressed transfer: ~55 KB instead of ~300 KB per page (the site's monthly bandwidth is capped)
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html", "Accept-Encoding": "gzip"})
     for attempt in range(2):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 final = urllib.parse.urlsplit(r.geturl())
                 ctype = r.headers.get("Content-Type", "")
-                body = r.read().decode("utf-8", "replace") if "html" in ctype else ""
+                raw = r.read() if "html" in ctype else b""
+                if raw and r.headers.get("Content-Encoding", "").lower() == "gzip":
+                    raw = gzip.decompress(raw)
+                body = raw.decode("utf-8", "replace")
                 return r.status, final, body
         except urllib.error.HTTPError as e:
             return e.code, None, ""
