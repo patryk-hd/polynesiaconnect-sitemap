@@ -2,8 +2,9 @@ name: Sitemap
 
 on:
   schedule:
-    # Monday and Thursday 08:00 Tahiti (18:00 UTC), after the agenda and jobs routines
-    - cron: "0 18 * * 1,4"
+    # Monday 08:00 Tahiti (18:00 UTC), after the Monday agenda and jobs routines; once a week since November 2026
+    # (each run downloads ~1,350 pages from the site, which has a 10 GB monthly bandwidth cap)
+    - cron: "0 18 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -14,7 +15,25 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Paused until 1 November 2026: the site's October bandwidth was almost used up. Scheduled runs before that date stop
+  # here; a manual run (workflow_dispatch) still crawls. Remove this gate once November has started.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.date.outputs.go }}
+    steps:
+      - id: date
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(date -u +%Y%m%d)" -ge 20261101 ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=false" >> "$GITHUB_OUTPUT"
+            echo "Paused until 1 November (site bandwidth)"
+          fi
+
   crawl:
+    needs: gate
+    if: needs.gate.outputs.go == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
