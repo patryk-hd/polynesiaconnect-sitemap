@@ -212,6 +212,12 @@ def main():
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     extra = (HERE / "extra-seeds.txt").read_text().split() if (HERE / "extra-seeds.txt").exists() else []
     seeds = SECTIONS + sorted(state) + [x for x in (norm(s, "/") for s in extra) if x]
+    # commune × trade pages already known stay known: the new business profiles (31/10/2026) no longer link to them
+    # ("Recherches similaires"), which was the only way the crawler found them
+    for p in state:
+        seg = segments(p)
+        if len(seg) == 2 and seg[0] not in SECTION_ROOTS:
+            CATEGORY_PAGES.add(p)
     t0 = time.time()
     pages, visited = crawl(seeds)
     # lastmod: keep the date while the fingerprint is unchanged
