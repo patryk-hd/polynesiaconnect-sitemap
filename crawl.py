@@ -40,8 +40,8 @@ SKIP = re.compile(r"^/(api|admin|account|login|logout|checkout|join|joindre|rejo
                   r"write-a-review|devpreview|search_results|search|cart|invoice|password|unsubscribe|"
                   r"filedata|uploads|images|css|js|cdn-cgi|404|pc-sitemap-sync|indexnow-key)(/|$)|\.(jpe?g|png|gif|webp|svg|pdf|zip|xml|txt|js|css|ico)$",
                   re.I)
-SECTIONS = ["/", "/annonces", "/immobilier-offres", "/evenements-en-cours", "/emploi", "/produits", "/coupons",
-            "/blog", "/articles", "/photo-albums", "/videos", "/listing"]
+SECTIONS = ["/", "/annonces", "/vehicules", "/immobilier-offres", "/evenements-en-cours", "/emploi", "/entreprises",
+            "/produits", "/coupons", "/blog", "/articles", "/photo-albums", "/videos", "/listing"]
 
 # sitemap file per page type (first matching rule wins)
 TYPES = [
@@ -49,6 +49,7 @@ TYPES = [
     ("evenements", re.compile(r"^/evenements-en-cours/.+")),
     ("emploi", re.compile(r"^/emploi/.+")),
     ("annonces", re.compile(r"^/annonces/.+")),
+    ("vehicules", re.compile(r"^/vehicules/.+")),
     ("immobilier", re.compile(r"^/immobilier-offres/.+")),
     ("articles", re.compile(r"^/(blog|articles|produits|coupons|photo-albums|videos|photos)/.+")),
     ("entreprises", re.compile(r"^/[^/]+/[^/]+/[^/]+(/[^/]+)?$")),  # (pays/)commune/catégorie/entreprise
@@ -145,7 +146,9 @@ def page_info(body):
         "noindex": bool(robots and "noindex" in robots.group(1).lower()),
         "canonical": canon.group(1) if canon else None,
         "profile": '"LocalBusiness"' in body,
-        "empty": bool(EMPTY.search(body)),
+        # only the visible page: the new design's scripts contain "Aucun résultat" (dropdown search) on every page,
+        # which made every page without LocalBusiness data look like an empty search (31/10/2026: 789 pages dropped)
+        "empty": bool(EMPTY.search(re.sub(r"<(script|style|template)\b.*?</\1>", " ", body, flags=re.S | re.I))),
         "member": "member_profile" in body or '"LocalBusiness"' in body,
         "fingerprint": hashlib.sha1("|".join(clean(x) for x in (title, desc, h1)).encode()).hexdigest()[:16],
         "links": re.findall(r'<a\s[^>]*href=["\']([^"\']+)["\']', body, re.I),
