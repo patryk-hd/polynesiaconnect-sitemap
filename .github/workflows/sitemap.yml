@@ -2,9 +2,10 @@ name: Sitemap
 
 on:
   schedule:
-    # Monday 08:00 Tahiti (18:00 UTC), after the Monday agenda and jobs routines; once a week since November 2026
-    # (each run downloads ~1,350 pages from the site, which has a 10 GB monthly bandwidth cap)
-    - cron: "0 18 * * 1"
+    # Thursday 08:00 Tahiti (18:00 UTC), after the Thursday jobs routine and the evening before the Friday Facebook recap,
+    # which reads the new pages from state.json (Monday until 01/11/2026: the recap saw week-old data). Once a week:
+    # each run downloads ~1,500 pages from the site, which has a 10 GB monthly bandwidth cap.
+    - cron: "0 18 * * 4"
   workflow_dispatch:
 
 permissions:

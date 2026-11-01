@@ -2,7 +2,7 @@
 
 *[Version française plus bas](#version-française)*
 
-Automatic XML sitemap for [www.polynesiaconnect.com](https://www.polynesiaconnect.com), rebuilt every **Monday** by GitHub Actions (twice a week until October 2026; weekly to spare the site's 10 GB monthly bandwidth), then copied to the site itself by the "PC Sitemap Sync" widget (page `/pc-sitemap-sync`, secret token) so Google and Bing accept it:
+Automatic XML sitemap for [www.polynesiaconnect.com](https://www.polynesiaconnect.com), rebuilt every **Thursday** (8:00 Tahiti, the day before the Facebook recap) by GitHub Actions (twice a week until October 2026; weekly to spare the site's 10 GB monthly bandwidth), then copied to the site itself by the "PC Sitemap Sync" widget (page `/pc-sitemap-sync`, secret token) so Google and Bing accept it:
 
 **https://www.polynesiaconnect.com/filedata/cache/sitemaps/sitemap.xml** (also reachable as `/sitemap.xml`, 301)
 
@@ -18,7 +18,7 @@ Run by hand: Actions → Sitemap → Run workflow. Locally: `python3 crawl.py`.
 
 ## Version française
 
-Sitemap XML automatique de [www.polynesiaconnect.com](https://www.polynesiaconnect.com), reconstruit chaque **lundi** par GitHub Actions (deux fois par semaine jusqu'en octobre 2026 ; une fois pour ménager les 10 Go de bande passante mensuelle du site), puis copié sur le site par le widget « PC Sitemap Sync » (page `/pc-sitemap-sync`, jeton secret) pour que Google et Bing l'acceptent :
+Sitemap XML automatique de [www.polynesiaconnect.com](https://www.polynesiaconnect.com), reconstruit chaque **jeudi** (8h00 à Tahiti, la veille du récap Facebook) par GitHub Actions (deux fois par semaine jusqu'en octobre 2026 ; une fois pour ménager les 10 Go de bande passante mensuelle du site), puis copié sur le site par le widget « PC Sitemap Sync » (page `/pc-sitemap-sync`, jeton secret) pour que Google et Bing l'acceptent :
 
 **https://www.polynesiaconnect.com/filedata/cache/sitemaps/sitemap.xml** (aussi accessible par `/sitemap.xml`, 301)
 
