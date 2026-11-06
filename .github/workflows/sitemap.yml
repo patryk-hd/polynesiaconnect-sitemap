@@ -4,7 +4,7 @@ on:
   schedule:
     # Thursday 08:00 Tahiti (18:00 UTC), after the Thursday jobs routine and the evening before the Friday Facebook recap,
     # which reads the new pages from state.json (Monday until 01/11/2026: the recap saw week-old data). Once a week:
-    # each run downloads ~1,500 pages from the site, which has a 10 GB monthly bandwidth cap.
+    # each run downloads ~1,500 pages from the site, which has a 20 GB monthly bandwidth cap (10 GB plan + 10 GB extra).
     - cron: "0 18 * * 4"
   workflow_dispatch:
 
